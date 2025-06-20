@@ -1,0 +1,82 @@
+标题: 6－1．该打流感疫苗了
+描述: 可以向同事等询问有关流感预防接种的不懂之处。 在网上找医院时，可以听懂并理解同事等关于输入关键词等的指示。
+[日文] 同僚：　あ～、そろそろ、インフルエンザの予防接種を受けなきゃ…。
+[发音] A：　Aa, sorosoro, infuruenza no yoboosesshu o ukenakya….
+[中文] 同事：　啊～，马上该打流感疫苗了…。
+
+[日文] アンジェラ：　え、毎年受けてるんですか。
+[发音] B：　E, maitoshi uketerun desu ka.
+[中文] 安吉拉：　欸，每年都打吗？
+
+[日文] 同僚：　そう、わたし、おととしインフルエンザにかかって、大変だったんですよ。
+[发音] A：　Soo, watashi, ototoshi infuruenza ni kakatte, taihen dattan desu yo.
+[中文] 同事：　是的，我前年患了流感，太遭罪了。
+
+[日文] 同僚：　アンジェラさんは受けないの？
+[发音] A：　Anjera-san wa ukenai no?
+[中文] 同事：　安吉拉，你不打吗？
+
+[日文] アンジェラ：　そうですねぇ。
+[发音] B：　Soo desu nee.
+[中文] 安吉拉：　这样啊。
+
+[日文] アンジェラ：　受けといたほうがいいですか。
+[发音] B：　Uketoita hoo ga ii desu ka.
+[中文] 安吉拉：　打了更好吗？。
+
+[日文] 同僚：　まあねぇ…。
+[发音] A：　Maanee・・・.
+[中文] 同事：　是的吧…。
+
+[日文] アンジェラ：　それって、いくらぐらいかかりますか。
+[发音] B：　Sore tte, ikura gurai kakarimasu ka.
+[中文] 安吉拉：　那大概要花多少钱呢？
+
+[日文] 同僚：　3,000円ぐらいだと思うけど、病院によって違うみたい。
+[发音] A：　Sanzen-en gurai dato omou kedo, byooin ni yotte chigau mitai.
+[中文] 同事：　大约是3,000日元吧，好像每个医院不太一样。
+
+[日文] アンジェラ：　そうですか。
+[发音] B：　Soo desu ka.
+[中文] 安吉拉：　是吗？
+
+[日文] アンジェラ：　何科で探せばいいですか。
+[发音] B：　Nani-ka de sagaseba ii desu ka.
+[中文] 安吉拉：　搜什么科好呢？
+
+[日文] 同僚：　あ～、内科とかかなぁ。
+[发音] A：　Aa, naika toka kanaa.
+[中文] 同事：　啊～，内科什么的吧。
+
+[日文] アンジェラ：　な、い、か。
+[发音] B：　Na, i, ka.
+[中文] 安吉拉：　na, i, ka。
+
+[日文] 同僚：　あと、住んでる場所…。
+[发音] A：　Ato, sunderu basho….
+[中文] 同事：　然后是居住地…。
+
+[日文] アンジェラ：　も、み、じ、ちょ、う。
+[发音] B：　Mo, mi, ji, cho, o.
+[中文] 安吉拉：　Mo, mi, ji, cho, o。
+
+[日文] アンジェラ：　イ、ン、フ、ル、エ、ン、ザ。
+[发音] B：　I, n, fu, ru, e, n, za.
+[中文] 安吉拉：　I, n, fu, ru, e, n, za。
+
+[日文] アンジェラ：　よ、ぼ、う、せっ、しゅ。
+[发音] B：　Yo, bo, o, se, sshu.
+[中文] 安吉拉：　Yo, bo, u, se, sshu。
+
+[日文] アンジェラ：　あ、「さくら病院」って出ました。
+[发音] B：　A, "Sakura-byooin" tte demashita.
+[中文] 安吉拉：　啊，“樱花医院”出来了。
+
+[日文] アンジェラ：　ここだったら、前に行ったことがあります。
+[发音] B：　Koko dattara, mae ni itta koto ga arimasu.
+[中文] 安吉拉：　这里的话 ，我以前去过。
+
+[日文] 同僚：　ああ、だったら安心ですね。
+[发音] A：　Aa, dattara, anshin desu ne.
+[中文] 同事：　啊～，那就放心了吧。
+

@@ -1,0 +1,250 @@
+标题: 9－1．预计搬家
+描述: 可以告诉搬家公司，希望的时间和行李数量等，要求他们提供服务。 可以就自身希望和搬家公司的情况，同搬家公司讨论并协调搬家日程。
+[日文] 引っ越し業者：　お電話ありがとうございます。
+[发音] A：　Odenwa arigatoo gozaimasu.
+[中文] 搬家公司：　感谢您的致电。
+
+[日文] 引っ越し業者：　ワタリドリ引越センターでございます。
+[发音] A：　Wataridori-hikkoshi-sentaa de gozaimasu.
+[中文] 搬家公司：　这里是Wataridori搬家中心。
+
+[日文] オウ：　あのう、インターネットで見て、電話したんですけど・・・。
+[发音] B：　Anoo, intaanetto de mite, denwa-shitan desu kedo….
+[中文] 王：　你好，我在网上看到你们公司，所以就打电话问一下…。
+
+[日文] 引っ越し業者：　ありがとうございます。
+[发音] A：　Arigatoo gozaimasu.
+[中文] 搬家公司：　谢谢。
+
+[日文] オウ：　来月の中旬ぐらいに引っ越しを予定しているんですけど、料金はいくらぐらいになるか教えていただけますか。
+[发音] B：　Raigetsu no chuujun gurai ni hikkoshi o yotei-shite irun desu kedo, ryookin wa ikura gurai ni naru ka oshiete itadakemasu ka.
+[中文] 王：　我预计下个月中旬搬家，想问一下大概需要多少费用？
+
+[日文] 引っ越し業者：　正確なお見積もりは、お部屋を見せていただいてからになりますが、よろしいですか。
+[发音] A：　Seikakuna omitsumori wa, oheya o misete itadaite kara ni narimasu ga, yoroshii desu ka.
+[中文] 搬家公司：　准确的报价需要在看了房子过后才行，可以吗？
+
+[日文] オウ：　ああ、そうなんですね。
+[发音] B：　Aa, soo nan desu ne.
+[中文] 王：　啊，这样啊。
+
+[日文] オウ：　見積もりを見てから、お願いするかどうか決めてもいいんですよね。
+[发音] B：　Mitsumori o mite kara, onegai-suru ka doo ka kimetemo iin desu yo ne.
+[中文] 王：　可以看了报价过后再决定要不要请你们吗？
+
+[日文] 引っ越し業者：　はい、もちろんです。
+[发音] A：　Hai, mochiron desu.
+[中文] 搬家公司：　当然可以。
+
+[日文] オウ：　分かりました。
+[发音] B：　Wakarimashita.
+[中文] 王：　我知道了。
+
+[日文] 引っ越し業者：　では、いくつか教えていただけますか。
+[发音] A：　Dewa, ikutsu ka oshiete itadakemasu ka.
+[中文] 搬家公司：　那现在能问您一些问题吗？
+
+[日文] オウ：　はい。
+[发音] B：　Hai.
+[中文] 王：　好的。
+
+[日文] 引っ越し業者：　お客様、お名前は。
+[发音] A：　Okyakusama, onamae wa.
+[中文] 搬家公司：　请告知客人您的姓名。
+
+[日文] オウ：　オウ・ハオランです。
+[发音] B：　Oo haoran desu.
+[中文] 王：　王浩然。
+
+[日文] 引っ越し業者：　現在のお住まいはどちらですか。
+[发音] A：　Genzai no osumai wa dochira desu ka.
+[中文] 搬家公司：　请问您现在的住所在哪里？
+
+[日文] オウ：　焼津市大里(やいづしおおざと)です。
+[发音] B：　Yaizu-shi oozato desu.
+[中文] 王：　在烧津市大里（Yaizushi oozato）。
+
+[日文] 引っ越し業者：　お引っ越し先はどちらになりますか。
+[发音] A：　Ohikkoshisaki wa dochira ni narimasu ka.
+[中文] 搬家公司：　请问您的新住处是？
+
+[日文] オウ：　引っ越し先・・・どこに引っ越すかってことですよね。
+[发音] B：　Hikkoshisaki…doko ni hikkosu katte koto desu yo ne.
+[中文] 王：　新住处…就是说要搬到哪里的意思吗？
+
+[日文] オウ：　潮来市です。
+[发音] B：　Itako-shi desu.
+[中文] 王：　潮来市。
+
+[日文] 引っ越し業者：　お引っ越しの日にちは、もうお決まりですか。
+[发音] A：　Ohikkoshi no hinichi wa moo okimari desu ka.
+[中文] 搬家公司：　搬家的日子已经决定好了吗？
+
+[日文] オウ：　できれば、来月の中旬の日曜日に引っ越しできればいいなあと思っているんですけど。
+[发音] B：　Dekireba, raigetsu no chuujun no nichiyoobi ni hikkoshi dekireba ii naa to omotte irun desu kedo.
+[中文] 王：　可以的话，我想最好是下个月中旬的周日搬。
+
+[日文] 引っ越し業者：　日曜日ですか。
+[发音] A：　Nichiyoobi desu ka.
+[中文] 搬家公司：　周日吗？
+
+[日文] 引っ越し業者：　土日は料金も高くなりますし、今からですと空きもほとんどありませんが・・・。
+[发音] A：　Donichi wa ryookin mo takaku narimasu shi , ima kara desu to aki mo hotondo arimasen ga….
+[中文] 搬家公司：　周六周日收费会比较高，现在来看也几乎没有空的日子…。
+
+[日文] 引っ越し業者：　平日でご検討いただくことは可能でしょうか。
+[发音] A：　Heejitsu de gokentoo itadaku koto wa kanoo deshoo ka.
+[中文] 搬家公司：　您可以考虑一下平日吗？
+
+[日文] オウ：　平日・・・ですか。
+[发音] B：　Heejitsu…desu ka.
+[中文] 王：　平日…吗？
+
+[日文] オウ：　月曜日から金曜日までってことですよね。
+[发音] B：　Getsuyoobi kara kin'yoobi madette koto desu yo ne.
+[中文] 王：　就是周一到周五的意思吗？
+
+[日文] オウ：　夕方遅めの時間でも大丈夫ですか。
+[发音] B：　Yuugata osome no jikan demo daijoobu desu ka.
+[中文] 王：　傍晚较晚的时间也没问题吗?
+
+[日文] 引っ越し業者：　はい、大丈夫です。
+[发音] A：　Hai, daijoobu desu.
+[中文] 搬家公司：　嗯，没问题。
+
+[日文] オウ：　分かりました。
+[发音] B：　Wakarimashita.
+[中文] 王：　我知道了。
+
+[日文] オウ：　じゃあ、考えてみます。
+[发音] B：　Jaa, kangaete mimasu.
+[中文] 王：　那我考虑一下。
+
+[日文] オウ：　できるだけ早く決めるようにします。
+[发音] B：　Dekiru dake hayaku kimeru yooni shimasu.
+[中文] 王：　我会尽快决定。
+
+[日文] 引っ越し業者：　よろしくお願いいたします。
+[发音] A：　Yoroshiku onegai itashimasu.
+[中文] 搬家公司：　拜托了。
+
+[日文] 引っ越し業者：　それでは、お客様のお部屋の状況を、いくつかおうかがいしてもよろしいですか。
+[发音] A：　Sore dewa, okyakusama no oheya no jookyoo o ikutsu ka oukagai shitemo yoroshii desu ka.
+[中文] 搬家公司：　那现在可以请问一些您家房子的情况吗？
+
+[日文] オウ：　はい。
+[发音] B：　Hai.
+[中文] 王：　好的。
+
+[日文] 引っ越し業者：　お部屋の広さはどのくらいですか。
+[发音] A：　Oheya no hirosa wa dono kurai desu ka.
+[中文] 搬家公司：　请问房子大概有多大？
+
+[日文] オウ：　広さは・・・どう言ったらいいかよくわからないんですけど、普通のワンルームです。
+[发音] B：　Hirosa wa…doo ittara ii ka yoku wakaranain desu kedo, futsuu no wanruumu desu.
+[中文] 王：　多大…不知道怎么说才好，就是普通的一居室。
+
+[日文] 引っ越し業者：　わかりました。
+[发音] A：　Wakarimashita.
+[中文] 搬家公司：　明白了。
+
+[日文] 引っ越し業者：　お客様、お一人でお住まいですか。
+[发音] A：　Okyakusama, ohitori de osumai desu ka.
+[中文] 搬家公司：　客人您是一个人住吗？
+
+[日文] オウ：　はい、一人です。
+[发音] B：　Hai, hitori desu.
+[中文] 王：　对，一个人。
+
+[日文] 引っ越し業者：　大きなお荷物はどんな物がありますか。
+[发音] A：　Ookina onimotsu wa donna mono ga arimasu ka.
+[中文] 搬家公司：　有些什么样的大件行李呢？
+
+[日文] オウ：　大きな荷物・・・大きい物と言えば・・・冷蔵庫、洗濯機、ベッド・・・ぐらいです。
+[发音] B：　Ookina nimotsu… ookii mono to ieba… reezooko, sentakki, beddo… gurai desu.
+[中文] 王：　大件行李…大件的话…就是冰箱、洗衣机、床…就这些吧。
+
+[日文] 引っ越し業者：　テーブルやタンスはお持ちですか。
+[发音] A：　Teeburu ya tansu wa omochi desu ka.
+[中文] 搬家公司：　有桌子和柜子吗？
+
+[日文] オウ：　テーブルは、小さいのが一つ・・・タンスはありません。
+[发音] B：　Teeburu wa, chiisai no ga hitotsu… tansu wa arimasen.
+[中文] 王：　有一个小桌子…没有柜子。
+
+[日文] 引っ越し業者：　承知しました。
+[发音] A：　Shoochi shimashita.
+[中文] 搬家公司：　我知道了。
+
+[日文] 引っ越し業者：　バイクや自転車はお持ちですか。
+[发音] A：　Baiku ya jitensha wa omochi desu ka.
+[中文] 搬家公司：　有摩托车和自行车吗?
+
+[日文] オウ：　はい、自転車が一台あります。
+[发音] B：　Hai, jitensha ga ichi-dai arimasu.
+[中文] 王：　嗯，有一辆自行车。
+
+[日文] 引っ越し業者：　分かりました。
+[发音] A：　Wakarimashita.
+[中文] 搬家公司：　明白了。
+
+[日文] 引っ越し業者：　今日のお話をうかがうと、お荷物もあまり多くなさそうですので、5万円から8万円ぐらいになるかと思います。
+[发音] A：　Kyoo no ohanashi o ukagau to, onimotsu mo amari ookunasasoo desu node, goman-en kara hachiman-en gurai ni naru ka to omoimasu.
+[中文] 搬家公司：　根据今天了解的内容，行李好像也不多，所以我想大概需要5万日元到8万日元左右吧。
+
+[日文] 引っ越し業者：　一度お見積もりに伺いたいんですが、ご都合はいかがですか。
+[发音] A：　Ichido omitsumori ni ukagaitain desu ga, gotsugoo wa ikaga desu ka.
+[中文] 搬家公司：　我们想上门看一下情况再报价，请问您什么时候方便呢？
+
+[日文] オウ：　今週の金曜日の6時ごろはどうですか。
+[发音] B：　Konshuu no kin'yoobi no roku-ji goro wa doo desu ka.
+[中文] 王：　这周五6点左右行吗？
+
+[日文] 引っ越し業者：　かしこまりました。
+[发音] A：　Kashikomarimashita.
+[中文] 搬家公司：　好的。
+
+[日文] 引っ越し業者：　では、10日の金曜日の6時ごろに当社の営業の者が伺います。
+[发音] A：　Dewa, tooka no kin'yoobi no roku-ji goro ni toosha no eegyoo no mono ga ukagaimasu.
+[中文] 搬家公司：　那我们公司的业务员就在10日的周五6点左右去您家。
+
+[日文] 引っ越し業者：　お客様のご住所、お電話番号を教えていただけますか。
+[发音] A：　Okyakusama no gojuusho, odenwa-bangoo o oshiete itadakemasu ka.
+[中文] 搬家公司：　可以告诉我您的住址与电话吗？
+
+[日文] オウ：　はい。
+[发音] B：　Hai.
+[中文] 王：　好的。
+
+[日文] オウ：　住所は、焼津市大里1-1-1 大里アパート103号室です。
+[发音] B：　Juusho wa, Yaizu-shi oozato ichi no ichi no ichi oozato-apaato ichi-maru-san-gooshitsu desu.
+[中文] 王：　住址是烧津市大里1-1-1大里公寓103号。
+
+[日文] オウ：　電話番号は、080-1234-5678です。
+[发音] B：　Denwa-bangoo wa, zerohachizero ichinisanyon gorokunanahachi desu.
+[中文] 王：　电话号码是080-1234-5678。
+
+[日文] 引っ越し業者：　復唱致します。
+[发音] A：　Fukushoo itashimsu.
+[中文] 搬家公司：　我复述一遍。
+
+[日文] 引っ越し業者：　ご住所は焼津市大里1-1-1 大里アパート103号室、お電話番号は、080-1234-5678ですね。
+[发音] A：　Gojuusho wa, Yaizu-shi oozato ichi no ichi no ichi oozato-apaato ichi-maru-san-gooshitsu, odenwa-bangoo wa,  zerohachizero no ichinisanyon no gorokunanahchi desu ne.
+[中文] 搬家公司：　您的住址是烧津市大里1-1-1大里公寓103号，电话号码是080-1234-5678。
+
+[日文] オウ：　はい、そうです。
+[发音] B：　Hai, soo desu.
+[中文] 王：　对，没错。
+
+[日文] 引っ越し業者：　お問い合わせ、ありがとうございました。
+[发音] A：　Otoiawase, arigatoo gozaimasita.
+[中文] 搬家公司：　感谢你的咨询。
+
+[日文] 引っ越し業者：　ワタリドリ引越センター、山田が承りました。
+[发音] A：　Wataridori-hikkoshi-sentaa, Yamada ga uketamawarimashita.
+[中文] 搬家公司：　受理人是Wataridori搬家中心的山田。
+
+[日文] オウ：　よろしくお願いいたします。
+[发音] B：　Yoroshiku onegai itashimasu.
+[中文] 王：　拜托了。
+

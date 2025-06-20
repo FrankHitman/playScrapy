@@ -1,0 +1,122 @@
+标题: 11－1．是“害口”啊・・・。
+描述: 可以向医生说明孕期中的自身症状。
+[日文] 医者：　こんにちは。
+[发音] A：　Konnichiwa.
+[中文] 医生：　您好。
+
+[日文] 医者：　今日は、どうされましたか。
+[发音] A：　Kyoo wa, doo saremashita ka.
+[中文] 医生：　今天有什么不舒服吗？
+
+[日文] リナ：　昨日から、ちょっと頭が痛くて…。
+[发音] B：　Kinoo kara, chotto atama ga itakute….
+[中文] 莉娜：　从昨天开始，头有点痛…。
+
+[日文] リナ：　あと、こう…体が揺れる感じがして、ちゃんと立っていられないというか、座り込んじゃうことがあって…。
+[发音] B：　Ato, koo… karada ga yureru kanji ga shite, chanto tatterarenai to yuuka, suwarikonjau koto ga atte….
+[中文] 莉娜：　然后，感觉身体有点像这样晃，不能好好地站着，只能坐下来…。
+
+[日文] 医者：　ああ、めまいですね。
+[发音] A：　Aa, memai desu ne.
+[中文] 医生：　啊～memai（头晕）对吧。
+
+[日文] リナ：　「めまい」っていうんですね。
+[发音] B：　"Memai" tte yuun desu ne.
+[中文] 莉娜：　原来这个说成“memai”啊。
+
+[日文] リナ：　頭痛薬は持っているんですけど、妊娠中に飲んでもいいのかどうか、分からなくて…。
+[发音] B：　Zutsuuyaku wa motterun desu kedo, ninshinchuu ni nonde mo iino ka doo ka, wakaranakute….
+[中文] 莉娜：　我有治头痛的药，但是不知道孕期能不能吃…。
+
+[日文] 医者：　あ～、それでは、まず、簡単な検査をして、問題なければ、妊娠中にも飲める頭痛薬を出しますね。
+[发音] A：　Aa, sore dewa, mazu, kantanna kensa o shite, mondai nakereba, ninshinchuu ni mo nomeru zutsuuyaku o dashimasu ne.
+[中文] 医生：　啊～，那就先做个简单的检查，没有问题的话，给你开一点孕期也可以吃的头痛药吧。
+
+[日文] 医者：　それから、めまいのことも考えましょう。
+[发音] A：　Sorekara, memai no koto mo kangaemashoo.
+[中文] 医生：　然后，头晕的事也要考虑一下。
+
+[日文] リナ：　あ、あと、いろんなにおいが気になったり、いつも気持ちが悪い感じがしたりして…。
+[发音] B：　A, ato, ironna nioi ga ki ni nattari, itsumo kimochi ga warui kanji ga shitari shite….
+[中文] 莉娜：　啊，另外，还闻不得各种气味，经常感觉恶心…。
+
+[日文] リナ：　食べたい気持ちにならないんです…。
+[发音] B：　Tabetai kimochi ni naranain desu.
+[中文] 莉娜：　不想吃东西…。
+
+[日文] 医者：　ああ、「つわり」ですね…、「つわり」の薬は、ないんですよね…。
+[发音] A：　Aa, "tsuwari" desu ne…, "tsuwari" no kusuri wa, nain desu yo ne….
+[中文] 医生：　啊～，是“tsuwari （害口）”啊…，“tsuwari （害口）”的药是没有的…。
+
+[日文] 医者：　辛いと思いますけれど、ちょっと様子見ましょう。
+[发音] A：　Tsurai to omoimasu keredo, chotto yoosu mimashoo.
+[中文] 医生：　会有些难受，再观察一下情况吧。
+
+[日文] 医者：　まあ、妊娠のはじめのころは、あまり無理に食べようとしなくても大丈夫ですよ。
+[发音] A：　Maa, ninshin no hajime no koro wa, amari muri ni tabeyoo to shinakutemo daijoobu desu yo.
+[中文] 医生：　嗯，怀孕初期，不用太勉强吃东西也没关系的。
+
+[日文] 医者：　でも、水分は、しっかりとるようにしてくださいね。
+[发音] A：　Demo, suibun wa, shikkari toru yoo ni shitekudasai ne.
+[中文] 医生：　但水分要好好补充。
+
+[日文] リナ：　はい、分かりました。
+[发音] B：　Hai, wakarimashita.
+[中文] 莉娜：　好的，我知道了。
+
+[日文] 医者：　ちょっと、貧血気味ですね。
+[发音] A：　Chotto, hinketsu gimi desu ne.
+[中文] 医生：　稍微有点贫血啊。
+
+[日文] 医者：　めまいの原因は、貧血でしょう。
+[发音] A：　Memai no genin wa, hinketsu deshoo.
+[中文] 医生：　头晕的原因，应该就是贫血吧。
+
+[日文] 医者：　え～、頭痛のお薬といっしょに、貧血のお薬も出しておきますね。
+[发音] A：　Ee, zutsuu no okusuri to issho ni, hinketsu no okusuri mo dashite okimasu ne.
+[中文] 医生：　嗯～，贫血的药和头疼的药一起给你开吧。
+
+[日文] リナ：　あの、貧血って。
+[发音] B：　Ano, hinketsu tte.
+[中文] 莉娜：　请问，贫血是指？
+
+[日文] 医者：　ああ、妊娠中は、血液の中の鉄が少なくなるんです。
+[发音] A：　Aa, ninshinchuu wa, ketsueki no naka no tetsu ga sukunaku narun desu.
+[中文] 医生：　啊～，孕期血液中的铁会变少。
+
+[日文] 医者：　そうなると、めまいがあったり、疲れやすくなったり、赤ちゃんにも影響がありますから、注意が必要なんですよ。
+[发音] A：　Soo naru to, memai ga attari, tsukareyasuku nattari, akachan ni mo eekyoo ga arimasu kara, chuui ga hitsuyoo nan desu yo..
+[中文] 医生：　这样就会出现头晕，容易疲倦，对宝宝也会产生影响，所以需要注意。
+
+[日文] リナ：　ああ、なるほど。
+[发音] B：　Aa, naruhodo.
+[中文] 莉娜：　啊～，原来如此。
+
+[日文] リナ：　あの、わたし、日本の薬をあまり飲んだことがないものですから…、ちょっと不安で…。
+[发音] B：　Ano, watashi, nihon no kusuri o amari nonda koto ga nai mono desu kara…, chotto fuan de….
+[中文] 莉娜：　嗯，我没怎么吃过日本的药，有点不安…。
+
+[日文] 医者：　気になるときは、電話でもいいですから、いつでも連絡してください。
+[发音] A：　Ki ni naru toki wa, denwa demo ii desu kara, itsudemo renraku-shite kudasai.
+[中文] 医生：　有什么担心的话，欢迎随时打电话联系。
+
+[日文] リナ：　分かりました。
+[发音] B：　Wakarimashita.
+[中文] 莉娜：　好的。
+
+[日文] 医者：　あと、貧血は、薬だけじゃなくて、食べ物でも予防ができるんです。
+[发音] A：　Ato, hinketsu wa, kusuri dake janakute, tabemono demo yoboo ga dekirun desu.
+[中文] 医生：　另外，药物之外，贫血通过食物也可以预防的。
+
+[日文] 医者：　病院内で食事の指導が受けられますから、「つわり」のときの食事についても相談してみるといいですよ。
+[发音] A：　Byooinnai de shokuji no shidoo ga ukeraremasu kara, "tsuwari" no toki no shokuji ni tsuite mo soodan-shite miru to ii desu yo.
+[中文] 医生：　可以在医院接受饮食指导，“害口”的时候，也可以咨询一下饮食方面的问题。
+
+[日文] リナ：　あ、そうですね。
+[发音] B：　A, soo desu ne.
+[中文] 莉娜：　啊，是吗？
+
+[日文] リナ：　そうしてみます。
+[发音] B：　Soo shite mimasu.
+[中文] 莉娜：　我试试。
+

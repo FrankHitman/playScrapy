@@ -1,0 +1,158 @@
+标题: 4－1．是〇〇药
+描述: 可以听懂并理解药剂师对药物用法、用量和注意事项等的说明和指示。 可以询问处方药的用法和用量等简单信息，并理解其回答。
+[日文] オウ：　すみません。
+[发音] A：　Sumimasen.
+[中文] 王：　打扰一下。
+
+[日文] オウ：　これ、お願いします。
+[发音] A：　Kore, onegaishimasu.
+[中文] 王：　麻烦请帮我拿一下药。
+
+[日文] 薬剤師：　はい・・・。
+[发音] B：　Hai….
+[中文] 药剂师：　好的…。
+
+[日文] 薬剤師：　オウさん、こちらの薬局は初めてですね。
+[发音] B：　Oo-san, kochira no yakkyoku wa hajimete desu ne.
+[中文] 药剂师：　王先生是第一次到我们药房吧。
+
+[日文] オウ：　はい。
+[发音] A：　Hai.
+[中文] 王：　是的。
+
+[日文] 薬剤師：　すみませんが、保険証、見せていただけますか。
+[发音] B：　Sumimasen ga, hokenshoo, misete itadakemasu ka.
+[中文] 药剂师：　不好意思，能给我看一下您的保险证吗？
+
+[日文] オウ：　はい。
+[发音] A：　Hai.
+[中文] 王：　好的。
+
+[日文] 薬剤師：　こちらもお書きください。
+[发音] B：　Kochira mo okaki kudasai.
+[中文] 药剂师：　这个单子也请填写一下。
+
+[日文] オウ：　はい、分かりました。
+[发音] A：　Hai, wakarimashita.
+[中文] 王：　好的。
+
+[日文] オウ：　これ、お願いします。
+[发音] A：　Kore, onegaishimasu.
+[中文] 王：　填好了。
+
+[日文] 薬剤師：　お薬手帳、お持ちですか。
+[发音] B：　Okusuri-techoo, omochi desu ka.
+[中文] 药剂师：　请问您有服药记录册吗？
+
+[日文] オウ：　はい、持っています。
+[发音] A：　Hai, motte imasu.
+[中文] 王：　有的。
+
+[日文] 薬剤師：　じゃ、お預かりしますね。
+[发音] B：　Ja, oazukari shimasu ne.
+[中文] 药剂师：　那我先收一下。
+
+[日文] 薬剤師：　少しお待ちください。
+[发音] B：　Sukoshi omachi kudasai.
+[中文] 药剂师：　请稍等。
+
+[日文] 薬剤師：　オウさん、先に保険証、お返ししておきますね。
+[发音] B：　Oo-san, saki ni hokenshoo, okaeshi shite okimasu ne.
+[中文] 药剂师：　王先生，先把保险证还给您。
+
+[日文] 薬剤師：　今日はお薬が2種類出ています。
+[发音] B：　Kyoo wa okusuri ga ni-shurui dete imasu.
+[中文] 药剂师：　今天开了两种药。
+
+[日文] 薬剤師：　こちらは、咳を止める薬です。
+[发音] B：　Kochira wa, seki o tomeru kusuri desu.
+[中文] 药剂师：　这是止咳药。
+
+[日文] 薬剤師：　毎食後、1錠ずつ飲んでください。
+[发音] B：　Maishokugo, ichi-joo zutsu nonde kudasai.
+[中文] 药剂师：　请在每餐之后各服一片。
+
+[日文] オウ：　食事の後に1錠ずつ飲むんですね。
+[发音] A：　Shokuji no ato ni ichi-joo zutsu nomun desu ne.
+[中文] 王：　是在餐后各服一片对吧。
+
+[日文] オウ：　あのう、わたし、薬を飲むと、眠くなることが多いんですけど、この薬はどうですか。
+[发音] A：　Anoo, watashi, kusuri o nomu to, nemuku naru koto ga ooin desu kedo, kono kusuri wa doo desu ka.
+[中文] 王：　请问一下，我吃了药经常容易犯困，这药吃了会犯困吗？
+
+[日文] 薬剤師：　そうですね。ここにも書いてありますけど、ちょっと眠くなりやすいですよ。
+[发音] B：　Soo desu ne. Koko ni mo kaite arimasu kedo, chotto nemuku nari yasui desu yo.
+[中文] 药剂师：　是啊，这里也有写，会有些容易犯困呢。
+
+[日文] オウ：　じゃあ、気をつけた方がいいですね。
+[发音] A：　Jaa, ki o tsuketa hoo ga ii desu ne.
+[中文] 王：　那就要小心一点为好呢。
+
+[日文] 薬剤師：　はい、そうですね。
+[发音] B：　Hai, soo desu ne.
+[中文] 药剂师：　是啊。
+
+[日文] 薬剤師：　こちらは、頭が痛いときや、熱がある時に飲んでください。
+[发音] B：　Kochira wa, atama ga itai toki ya, netsu ga aru toki ni nonde kudasai.
+[中文] 药剂师：　这个药请在头痛时或发烧时服用。
+
+[日文] オウ：　え、1日何錠飲んでもいいんですか。
+[发音] A：　E, ichi-nichi nan-joo nondemo iin desu ka.
+[中文] 王：　嗯，一天随便吃几片都可以吗？
+
+[日文] 薬剤師：　いいえ、1日、6錠までです。１回2錠までですよ。
+[发音] B：　Iie, ichi-nichi, roku-joo made desu. Ikkai ni-joo made desu yo.
+[中文] 药剂师：　不，一天最多6片。一次最多2片。
+
+[日文] オウ：　ああ、わかりました。
+[发音] A：　Aa, wakarimashita.
+[中文] 王：　啊，我知道了。
+
+[日文] 薬剤師：　今日は、1,200円になります。
+[发音] B：　Kyoo wa, sen-nihyaku-en ni narimasu.
+[中文] 药剂师：　今天的费用是1200日元。
+
+[日文] オウ：　あの、こののど飴、のどに良さそうですね。
+[发音] A：　Ano, kono nodo-ame, nodo ni yosasoo desu ne.
+[中文] 王：　请问一下，这个润喉糖对喉咙好像不错，对吗？
+
+[日文] 薬剤師：　ああ、けっこう効くみたいですよ。
+[发音] B：　Aa, kekkoo kiku mitai desu yo.
+[中文] 药剂师：　啊，好像非常有效哦。
+
+[日文] オウ：　ああ、そうですか。
+[发音] A：　Aa, soo desu ka.
+[中文] 王：　哦，是吗？
+
+[日文] オウ：　じゃあ、これもいっしょにお願いします。
+[发音] A：　Jaa, kore mo issho ni onegaishimasu.
+[中文] 王：　那这个也麻烦一起给我吧。
+
+[日文] 薬剤師：　ありがとうございます。
+[发音] B：　Arigatoo gozaimasu.
+[中文] 药剂师：　谢谢。
+
+[日文] 薬剤師：　全部で1,500円になります。
+[发音] B：　zenbu de sen-gohyaku-en ni narimasu.
+[中文] 药剂师：　共计1500日元。
+
+[日文] 薬剤師：　こちら、領収書になります。
+[发音] B：　Kochira, ryooshuusho ni narimasu.
+[中文] 药剂师：　这是发票。
+
+[日文] 薬剤師：　こちら、お薬手帳もお返ししますね。
+[发音] B：　Kochira, okusuri-techoo mo okaeshi shimasu ne.
+[中文] 药剂师：　这是您的服药记录册，也还给您。
+
+[日文] 薬剤師：　今日のお薬、こちらに貼っておきましたから。
+[发音] B：　Kyoo no okusuri, kochira ni hatte okimashita kara.
+[中文] 药剂师：　今天的药单贴到这里了。
+
+[日文] オウ：　ありがとうございます。
+[发音] A：　Arigatoo gozaimasu.
+[中文] 王：　谢谢。
+
+[日文] 薬剤師：　お大事に。
+[发音] B：　Odaijini.
+[中文] 药剂师：　请多保重。
+

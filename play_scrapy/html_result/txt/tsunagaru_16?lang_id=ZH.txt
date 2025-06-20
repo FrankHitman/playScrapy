@@ -1,0 +1,130 @@
+标题: 
+描述: 
+[日文] ママ友：　ひさしぶり、元気だった。
+[发音] A：　Hisashiburi, genki datta.
+[中文] 妈妈友：　好久不见，过得好吗？
+
+[日文] リナ：　うん、まあまあ。
+[发音] B：　Un, maamaa.
+[中文] 莉娜：　嗯，将就吧。
+
+[日文] ママ友：　え～、どうしたの。
+[发音] A：　Ee, doo shita no.
+[中文] 妈妈友：　欸～，怎么啦？
+
+[日文] リナ：　う～ん、小学校のこと。
+[发音] B：　Uun, shoogakko no koto.
+[中文] 莉娜：　嗯～，是小学的事。
+
+[日文] ママ友：　あ～、来年からケビン君、１年生だもんね～。
+[发音] A：　Aa, rainen kara Kebin-kun, ichinen-see da mon nee.
+[中文] 妈妈友：　啊～，明年凯文小朋友就是一年级学生了嘛～。
+
+[日文] リナ：　そうなんだよね。
+[发音] B：　Soo nanda yo ne.
+[中文] 莉娜：　是啊。
+
+[日文] リナ：　実はきのう、夫が休みだったから、いっしょに国際交流協会に行って、外国人の子どもの入学のことについて聞いたんだけど。
+[发音] B：　Jitsuwa kinoo, otto ga yasumi datta kara, isshoni kokusai-kooryuu-kyookai ni itte, gaikokujin no kodomo no nyuugaku no koto ni tsuite kiitan dakedo.
+[中文] 莉娜：　其实昨天我老公休息，就一起去了国际交流协会，问了外国人小孩入学的事。
+
+[日文] リナ：　なんか準備しなきゃならないことがたくさんあって、びっくりしちゃった…。
+[发音] B：　Nanka junbi-shinakya naranai koto ga takusan atte, bikkuri-shichatta….
+[中文] 莉娜：　好像必须要准备的事特别多，很吃惊…。
+
+[日文] リナ：　あと、入学前から検診もあるって言われたんだけど、それって、入学試験みたいなもの。
+[发音] B：　Ato, nyuugaku mae kara kenshin mo aru tte iwaretan dakedo, sore tte, nyuugaku-shiken mitaina mono.
+[中文] 莉娜：　然后，还告诉我们入学前要体检，那个，就是像入学考试的那种吗？
+
+[日文] ママ友：　ちがうちがう、「就学前検診」って言って、どっちかって言えば「健康診断」に近いかな。
+[发音] A：　Chigau chigau, "Shuugaku-mae-kenshin" tte itte, docchi ka tte ieba "kenkoo-shindan" ni chikai kana.
+[中文] 妈妈友：　不是不是，这个叫做“shuugakumaekenshin”，要说的话，跟“健康检查”比较接近。
+
+[日文] リナ：　なるほど。
+[发音] B：　Naruhodo.
+[中文] 莉娜：　原来如此。
+
+[日文] ママ友：　小学校1年生の入学は準備することがたくさんあるんだよ。
+[发音] A：　Shoogakkoo ichi-nensee no nyuugaku wa junbi-suru koto ga takusan arun da yo.
+[中文] 妈妈友：　小学一年级学生入学要准备的东西很多哦。
+
+[日文] リナ：　そうなんだね。
+[发音] B：　Soo nanda ne.
+[中文] 莉娜：　是啊。
+
+[日文] リナ：　わたしも夫も、ずいぶん日本の生活には慣れてきたと思っているんだけど、小学校とか、よく考えたら、一度も行ったことがないし、そもそも制度がよく分かっていないから、心配で心配で。
+[发音] B：　Watashi mo otto mo, zuibun nihon no seekatsu ni wa narete kita to omotte irun da kedo, shoogakkoo toka, yoku kangaetara, ichido mo itta koto ga nai shi, somosomo seedo ga yoku wakatte inai kara, shinpai de shinpai de.
+[中文] 莉娜：　我和我老公都觉得很熟悉日本的生活了，但仔细想想，还一次都没有去过小学学校，说起来，连制度都还不太清楚，所以担心得不得了。
+
+[日文] ママ友：　たしかに、制度ねえ…。
+[发音] A：　Tashikani, seedo nee….
+[中文] 妈妈友：　确实是，制度嘛…。
+
+[日文] ママ友：　国でも小学校は6年間。
+[发音] A：　Kuni de mo shoogakkoo wa roku-nen-kan.
+[中文] 妈妈友：　在你们国家，小学也是6年吗？
+
+[日文] リナ：　国では、小学校6年間、中学校3年間、あと高校3年間。
+[发音] B：　Kuni de wa, shoogakkoo roku-nen-kan, chuugakkoo san-nen-kan, ato kookoo san-nen-kan.
+[中文] 莉娜：　在我们国家，小学是6年，中学3年，然后高中3年。
+
+[日文] リナ：　日本と同じ…きのう、はじめて分かったんだけどね。
+[发音] B：　Nihon to onaji.... Kinoo, hajimete wakattan da kedo ne.
+[中文] 莉娜：　跟日本一样…我是昨天才刚知道的。
+
+[日文] リナ：　でも、うちの子、外国人だし、日本語もまだあまりできないから、卒業試験で合格できるかどうか心配。
+[发音] B：　Demo, uchi no ko, gaikokujin da shi, nihongo mo mada amari dekinai kara, sotsugyoo-shiken de gookaku dekiru ka dooka shinpai.
+[中文] 莉娜：　但是，我家孩子是外国人，日语也还不怎么好，担心他毕业考试能不能及格。
+
+[日文] ママ友：　卒業試験ってどういうこと。
+[发音] A：　Sotsugyoo-shiken tte dooyuu koto.
+[中文] 妈妈友：　你说的毕业考试是什么？
+
+[日文] リナ：　国では、小学校や中学校を卒業するとき、みんな卒業試験を受けることになっていて、それに合格しないと、卒業できないんだけど…日本は違うの。
+[发音] B：　Kuni de wa, shoogakkoo ya chuugakkoo o sotsugyoo-suru toki, minna sotsugyoo-shiken o ukeru koto ni natte ite, sore ni gookaku-shinai to, sotsugyoo dekinain dakedo …. Nihon wa chigau no.
+[中文] 莉娜：　在我们国家，小学和中学毕业时,大家都要参加毕业考试，不及格的话，就不能毕业…，日本不一样吗？
+
+[日文] ママ友：　日本は、義務教育の間は、同じ学年を繰り返すって、聞いたことないけど。
+[发音] A：　Nihon wa, gimu-kyooiku no aida wa, onaji gakunen o kurikaesu tte, kiita koto nai kedo.
+[中文] 妈妈友：　日本没听过有义务教育阶段留级的事呢。
+
+[日文] リナ：　へえ、じゃあ、卒業できないという心配もないんですね。
+[发音] B：　Hee, jaa, sotsugyoo dekinai to yuu shinpai mo nain desu ne.
+[中文] 莉娜：　欸，那就是不用担心无法毕业了，对吗？
+
+[日文] ママ友：　一般的にはね。
+[发音] A：　Ippanteki ni wa ne.
+[中文] 妈妈友：　一般情况是这样的。
+
+[日文] リナ：　だったら、ちょっと気が楽かも。
+[发音] B：　Dattara, chotto ki ga raku kamo.
+[中文] 莉娜：　这样的话，就感觉稍微轻松了点呢。
+
+[日文] リナ：　いや…でも逆に、子どもの勉強のことを、よく見ていないといけないということかもしれないね。
+[发音] B：　Iya… demo gyaku ni, kodomo no benkyoo no koto o, yoku mite inai to ikenai to yuu koto kamo shirenai ne.
+[中文] 莉娜：　不对…，这样反而是不是必须要好好地看管孩子的学习啊？
+
+[日文] ママ友：　そうそう。
+[发音] A：　Soo soo.
+[中文] 妈妈友：　对。
+
+[日文] リナ：　やっぱり、制度をよく理解しておく必要があるね。
+[发音] B：　Yappari, seedo o yoku rikai-shite oku hitsuyoo ga aru ne.
+[中文] 莉娜：　果然还是有必要提前好好了解一下制度啊。
+
+[日文] リナ：　きのう、国際交流協会で紹介してくれたビデオがあるので、今度それをいっしょに見て、色々教えてもらえない。
+[发音] B：　Kinoo, kokusai-kooryuu-kyookai de shookai-shite kureta bideo ga aru node, kondo sore o isshoni mite, iroiro oshiete moraenai.
+[中文] 莉娜：　昨天在国际交流协会有给我们介绍录像，下次你可以跟我一起看看，教我一下吗？
+
+[日文] ママ友：　もちろん、喜んで。
+[发音] A：　Mochiron, yorokonde.
+[中文] 妈妈友：　当然了，乐意效劳。
+
+[日文] リナ：　よかった～。
+[发音] B：　Yokattaa.
+[中文] 莉娜：　太好了～。
+
+[日文] リナ：　すごく助かります。
+[发音] B：　Sugoku tasukarimasu.
+[中文] 莉娜：　帮了我大忙了啊。
+

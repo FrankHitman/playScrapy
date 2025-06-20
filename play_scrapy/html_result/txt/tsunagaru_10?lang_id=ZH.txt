@@ -1,0 +1,158 @@
+标题: 10－1．不是妇科，是妇产科。
+描述: 可以从熟人那里获得关于附近妇产科诊所的必要信息。
+[日文] リナ：　山本さん、ちょっと相談したいことがあるんですけど…。
+[发音] A：　Yamamoto-san, chotto soodan-shitai koto ga arun desu kedo….
+[中文] 莉娜：　山本前辈，我想跟您咨询点事儿…。
+
+[日文] 同僚：　どうしたの。
+[发音] B：　Doo-shita no.
+[中文] 同事：　怎么啦？
+
+[日文] リナ：　あの…、もしかしたら、赤ちゃんできたかもしれなくて…。
+[发音] A：　Ano…, moshikashitara, akachan dekita kamoshirenakute….
+[中文] 莉娜：　嗯…，我可能怀上宝宝了…。
+
+[日文] 同僚：　え～、赤ちゃん。
+[发音] B：　Ee, akachan.
+[中文] 同事：　欸～，宝宝？
+
+[日文] リナ：　あっ、でも、自分で調べたら、陽性だったってだけで…。
+[发音] A：　A, demo, jibun de shirabetara, yoosee datta dake de….
+[中文] 莉娜：　啊，不过还只是我自己查了一下，显示阳性…。
+
+[日文] リナ：　まだ病院に行っていないから、本当にそうか…、分かんないんですけど…。
+[发音] A：　Mada byooin ni ittenai kara, hontooni soo ka…, wakannai desu kedo….
+[中文] 莉娜：　还没有去医院，所以也不知道是不是真的…。
+
+[日文] 同僚：　そっか、で。
+[发音] B：　Sokka, de.
+[中文] 同事：　这样啊，那你想问什么呢？
+
+[日文] リナ：　それで…婦人科の病院って、どこがいいのかなあって…。
+[发音] A：　Sorede….fujin-ka no byooin tte, doko ga iino kanaa tte.
+[中文] 莉娜：　所以…，想知道哪家fujinka（妇科）医院比较好…。
+
+[日文] 同僚：　リナさん、婦人科じゃなくて、産婦人科。
+[发音] B：　Rina-san, fujinka janakute, sanfujinka.
+[中文] 同事：　莉娜，不是fujinka（妇科），是sanfujinka（妇产科）。
+
+[日文] リナ：　さんふじんか。
+[发音] A：　Sanfujin-ka.
+[中文] 莉娜：　Sanfujinka？
+
+[日文] 同僚：　そうそう。
+[发音] B：　Soo soo.
+[中文] 同事：　对。
+
+[日文] 同僚：　「さん」は「出産」の「産」で、「赤ちゃんを産む」っていう意味。
+[发音] B：　“San”wa“shussan”no“san”de, “akachan o umu” tte yuu imi.
+[中文] 同事：　“San”是“生产”的“产”，就是“生宝宝”的意思。
+
+[日文] 同僚：　だから、「出産」のときは、「産婦人科」だよ。
+[发音] B：　Dakara, “shussan”no toki wa“sanfujin-ka”da yo.
+[中文] 同事：　所以，“生产”的时候，是“妇产科”。
+
+[日文] リナ：　さんふじんか。
+[发音] A：　Sanfujin-ka.
+[中文] 莉娜：　Sanfujinka。
+
+[日文] リナ：　ああ、なるほど。
+[发音] A：　Aa, naruhodo.
+[中文] 莉娜：　啊～，原来如此。
+
+[日文] リナ：　これですね。
+[发音] A：　Kore desu ne.
+[中文] 莉娜：　是这个吧。
+
+[日文] リナ：　山本さんは、どこの病院行ったんですか。
+[发音] A：　Yamamoto-san wa, doko no byooin ittan desu ka.
+[中文] 莉娜：　山本前辈是去的哪里的医院呢？
+
+[日文] 同僚：　わたしは、実家のほうで産んだからな…。
+[发音] B：　Watashi wa, jikka no hoo de unda kara na….
+[中文] 同事：　我是在娘家生的…。
+
+[日文] リナ：　そうですか…。
+[发音] A：　Soo desu ka….
+[中文] 莉娜：　这样啊…。
+
+[日文] リナ：　どっか、この辺で評判のいい病院、知ってますか。
+[发音] A：　Dokka, konohen de hyooban no ii byooin, shitte imasu ka.
+[中文] 莉娜：　您知道这附近评价比较好的医院吗？
+
+[日文] 同僚：　ん～、そうだな～。
+[发音] B：　Nn, sooda naa.
+[中文] 同事：　嗯～，让我想想。
+
+[日文] 同僚：　まるかわレディースクリニックだったら、外国人のママさんがけっこう行ってるって、聞いたことあるけど…。
+[发音] B：　Marukawa-redhiisu-kurinikku dattara, gaikokujin no mamasan ga kekkoo itteru tte, kiita koto aru kedo….
+[中文] 同事：　丸川妇产科诊所的话，我倒是听说过有很多外国人妈妈去的…。
+
+[日文] リナ：　まるかわレディースクリニックですね…。
+[发音] A：　Marukawa-redhiisu-kurinikku desu ne….
+[中文] 莉娜：　丸川妇产科诊所吗…？
+
+[日文] リナ：　ここですか。
+[发音] A：　Koko desu ka.
+[中文] 莉娜：　是这里吗？
+
+[日文] 同僚：　そうそう。
+[发音] B：　Soo soo.
+[中文] 同事：　对。
+
+[日文] リナ：　ああ、たしかに評判もいいみたいだし…あっ、うちからも近いですね。
+[发音] A：　Aa, tashikani hyooban mo ii mitai dashi…a, uchi kara mo chikai desu ne.
+[中文] 莉娜：　啊～，确实看起来评价不错…，啊，离我家也很近呢。
+
+[日文] リナ：　あれ、何て言いましたっけ…産むとき痛くないの…。
+[发音] A：　Are, nante iimashitta kke… Umu toki itakunai no….
+[中文] 莉娜：　那个，怎么说的来着…生孩子的时候不痛的那个…。
+
+[日文] 同僚：　ああ、無痛分娩。
+[发音] B：　Aa, mutsuu-bunben.
+[中文] 同事：　哦～，mutsuubunben（无痛分娩）。
+
+[日文] リナ：　あ、そう、それ。
+[发音] A：　A, soo, sore.
+[中文] 莉娜：　啊，对，就是那个。
+
+[日文] 同僚：　無痛分娩がいいの？
+[发音] B：　Mutsuu-bunben ga ii no.
+[中文] 同事：　你想要做mutsuubunben（无痛分娩）吗？
+
+[日文] 同僚：　あ～、ここではやってないみたい。
+[发音] B：　Aa, koko dewa yattenai mitai.
+[中文] 同事：　啊～，这里好像没有做这个呢。
+
+[日文] 同僚：　無痛がいいなら、大きい病院を探したほうがいいかもしれないよ。
+[发音] B：　Mutsuu ga ii nara, ookii byooin o sagashita hoo ga ii kamoshirenai yo.
+[中文] 同事：　如果想要无痛的话，可能最好要找大一点的医院。
+
+[日文] リナ：　そうですか…、一度かかったら、途中で病院、変えるとかは、だめですか。
+[发音] A：　Soo desu ka…, ichido kakattara, tochuu de byooin, kaeru toka wa, dame desu ka.
+[中文] 莉娜：　是吗…，去过一次后，中途就不能换医院了吗？
+
+[日文] 同僚：　いや、そんなことないよ。
+[发音] B：　Iya, sonna koto nai yo.
+[中文] 同事：　不是，没有那样的事。
+
+[日文] 同僚：　ここは、予約なくてもいいみたいだから、検査だけでも受けてみたら。
+[发音] B：　Koko wa, yoyaku nakutemo ii mitai da kara, kensa dake demo ukete mitara.
+[中文] 同事：　这里好像不用预约也行，要不先去检查一下？
+
+[日文] リナ：　分かりました。
+[发音] A：　Wakarimashita.
+[中文] 莉娜：　好。
+
+[日文] リナ：　日本で赤ちゃん産むなんて、なんか色々心配でしかたがないです。
+[发音] A：　Nihon de akachan umu nante, nanka iroiro shinpai de shikataganai desu.
+[中文] 莉娜：　要在日本生宝宝，各种事儿，担心得不得了。
+
+[日文] リナ：　でも、あんまり心配しても始まらないですよね～。
+[发音] A：　Demo, anmari shinpai-shitemo hajimaranai desu yo nee.
+[中文] 莉娜：　但是，过于担心也没有用，对吧～。
+
+[日文] リナ：　まず、検査、受けてみます。
+[发音] A：　Mazu, kensa, ukete mimasu.
+[中文] 莉娜：　我还是先去检查一下。
+

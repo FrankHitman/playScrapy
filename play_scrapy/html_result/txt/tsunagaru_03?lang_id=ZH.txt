@@ -1,0 +1,82 @@
+标题: 8－1．我找房子
+描述: 找房子时，可以通过简短的语句，向房屋中介表达自己的要求。 对需要回答自身要求和条件的调查问卷中不懂的项目，可以向房屋中介的人询问。
+[日文] 不動産業者：　いらっしゃいませ。
+[发音] A：　Irasshaimase.
+[中文] 房屋中介：　欢迎光临。
+
+[日文] アンジェラ：　あの・・・部屋を探しているんですが。
+[发音] B：　Ano…heya o sagashite irun desu ga.
+[中文] 安吉拉：　你好…我找房子。
+
+[日文] 不動産業者：　はい・・・どうぞおかけ下さい。
+[发音] A：　Hai…doozo okake kudasi.
+[中文] 房屋中介：　好的…请坐。
+
+[日文] アンジェラ：　あ、どうも。
+[发音] B：　A, doomo.
+[中文] 安吉拉：　谢谢。
+
+[日文] アンジェラ：　あの・・・来月ぐらいに引っ越ししたいと思っているんですが・・・。
+[发音] B：　Ano…raigetsu gurai ni hikkoshi-shitai to omotte irun desu ga….
+[中文] 安吉拉：　嗯…我想大概在下个月搬家…
+
+[日文] 不動産業者：　そうですか。
+[发音] A：　Soo desu ka.
+[中文] 房屋中介：　是吗？
+
+[日文] 不動産業者：　お客様のご希望をもう少しくわしくうかがいたいので、お手数ですが、こちらにお答えいただけますか。
+[发音] A：　Okyakusama no gokiboo o moo sukoshi kuwashiku ukagaitai node, otesuu desu ga, kochira ni okotae itadakemasu ka.
+[中文] 房屋中介：　我想了解一下客人您的要求，可以麻烦您回答一下这里的问题吗？
+
+[日文] アンジェラ：　分かりました。
+[发音] B：　Wakarimahita.
+[中文] 安吉拉：　好的。
+
+[日文] アンジェラ：　あの、これ、毎月払うんですか。
+[发音] B：　Ano, kore, maitsuki haraun desu ka.
+[中文] 安吉拉：　请问，这个，是每个月都要交吗？
+
+[日文] 不動産業者：　ああ、管理費、共益費ですね。
+[发音] A：　Aa, kanrihi, kyooekihi desu ne.
+[中文] 房屋中介：　啊，是管理费、共益费吧。
+
+[日文] 不動産業者：　はい、毎月払いますよ。
+[发音] A：　Hai, maitsuki haraimasu yo.
+[中文] 房屋中介：　是的，每个月都要交呢。
+
+[日文] アンジェラ：　ああ、じゃあ、これチェックをしたら、管理費とかも入れて「5万円」ってことですね。
+[发音] B：　Aa, jaa, kore, chekku o shitara, kanrihi toka mo irete “goman-en” tte koto desu ne.
+[中文] 安吉拉：　啊，那就是说如果勾选这项的话，加上管理费什么的要“5万日元”对吗？
+
+[日文] 不動産業者：　はい、そうです、そうです。
+[发音] A：　Hai, soo desu soo desu.
+[中文] 房屋中介：　是的是的。
+
+[日文] 不動産業者：　え～と・・・ご希望に合いそうな物件をいくつか紹介しますね。
+[发音] A：　Eetto… gokiboo ni aisoona bukken o ikutsu ka shookai-shimasu ne.
+[中文] 房屋中介：　那…我来介绍几个符合您要求的房子吧。
+
+[日文] 不動産業者：　いかがですか。
+[发音] A：　Ikaga desu ka.
+[中文] 房屋中介：　怎么样？
+
+[日文] アンジェラ：　ん～、これ、もらって帰って、会社の人に相談してみてもいいですか。
+[发音] B：　Nn, kore, moratte kaette, kaisha no hito ni soodan-shite mitemo ii desu ka.
+[中文] 安吉拉：　嗯，这个，我可以拿回去跟公司的人商量一下吗？
+
+[日文] 不動産業者：　ああ、いいですよ、もちろん。
+[发音] A：　Aa, ii desu yo, mochiron.
+[中文] 房屋中介：　啊，当然可以。
+
+[日文] アンジェラ：　ありがとうございます。
+[发音] B：　Arigatoo gozaimasu.
+[中文] 安吉拉：　谢谢。
+
+[日文] アンジェラ：　今週中にもう一度来ます。よろしくお願いします。
+[发音] B：　Konshuuchuu ni moo ichido kimasu. Yoroshiku onegaishimasu.
+[中文] 安吉拉：　这个星期以内我会再来一次。麻烦了。
+
+[日文] 不動産業者：　はい、お待ちしております。
+[发音] A：　Hai, omachishite orimasu.
+[中文] 房屋中介：　好的，恭候您的光临。
+

@@ -1,0 +1,186 @@
+标题: 
+描述: 
+[日文] 子育て支援センター相談員：　お待たせいたしました。
+[发音] A：　Omatase itashimashita.
+[中文] 育儿支援中心指导员：　让您久等了。
+
+[日文] 子育て支援センター相談員：　相談員の村上と申します。
+[发音] A：　Soodanin no Murakami to mooshimasu.
+[中文] 育儿支援中心指导员：　我是指导员村上。
+
+[日文] 子育て支援センター相談員：　よろしくお願いいたします。
+[发音] A：　Yoroshiku onegai itashimasu.
+[中文] 育儿支援中心指导员：　请多多关照。
+
+[日文] リナ：　今日はよろしくお願いします。
+[发音] B：　Kyoo wa yoroshiku onegaishimasu.
+[中文] 莉娜：　今天请指教。
+
+[日文] 子育て支援センター相談員：　どうぞ。
+[发音] A：　Doozo.
+[中文] 育儿支援中心指导员：　请。
+
+[日文] リナ：　リナと申します。
+[发音] B：　Rina to mooshimasu.
+[中文] 莉娜：　我的名字叫莉娜。
+
+[日文] リナ：　インドネシア人です。
+[发音] B：　Indoneshiajin desu.
+[中文] 莉娜：　是印度尼西亚人。
+
+[日文] リナ：　日本人の友達に、こちらで子どもについての悩みを相談できるって聞いて来ました。
+[发音] B：　Nihonjin no tomodachi ni, kochira de kodomo ni tsuite no nayami o soodan dekiru tte kiite kimashita.
+[中文] 莉娜：　我听日本人的朋友说，这里可以咨询关于孩子的烦恼，所以就过来了。
+
+[日文] リナ：　日本語、難しい言葉はまだ分からないんですけど、大丈夫ですか。
+[发音] B：　Nihongo, muzukashii kotoba wa mada wakaranain desu kedo, daijoobu desu ka.
+[中文] 莉娜：　我还不太懂日语里比较难的词汇，没事儿吧？
+
+[日文] 子育て支援センター相談員：　大丈夫ですよ。
+[发音] A：　Daijoobu desu yo.
+[中文] 育儿支援中心指导员：　没问题。
+
+[日文] 子育て支援センター相談員：　分からないときは遠慮なくそう言ってくださいね。
+[发音] A：　Wakaranai toki wa enryo naku soo itte kudasai ne.
+[中文] 育儿支援中心指导员：　不懂的时候您尽管说。
+
+[日文] リナ：　はい、ありがとうございます。
+[发音] B：　Hai, arigatoo gozaimasu.
+[中文] 莉娜：　好的，谢谢。
+
+[日文] 子育て支援センター相談員：　今日はお子さんといっしょに来られたんですね。
+[发音] A：　Kyoo wa okosan to issho ni koraretan desu ne.
+[中文] 育儿支援中心指导员：　今天您是和孩子一起来的吗？
+
+[日文] リナ：　はい、ベビーカーで来たら、寝ちゃったんです。
+[发音] B：　Hai, bebiikaa de kitara, nechattan desu.
+[中文] 莉娜：　是的，推着婴儿车来的，他睡着了。
+
+[日文] リナ：　でも、ゆっくり話せるから、よかったです。
+[发音] B：　Demo, yukkuri hanaseru kara, yokatta desu.
+[中文] 莉娜：　不过，这样就可以慢慢地聊，太好了。
+
+[日文] 子育て支援センター相談員：　お子さんはおいくつですか。
+[发音] A：　Okosan wa oikutsu desu ka.
+[中文] 育儿支援中心指导员：　您的孩子几岁了呢？
+
+[日文] リナ：　今、9か月なんですけど、全然、りにゅうしょくを食べなくて…とっても心配しているんです。
+[发音] B：　Ima, kyuu-kagetsu nan desu kedo, zenzen rinyuu-shoku o tabenakute… tottemo shinpai-shite irun desu.
+[中文] 莉娜：　现在九个月了，但完全不吃辅食…我很担心。
+
+[日文] 子育て支援センター相談員：　そうですか。
+[发音] A：　Soo desu ka.
+[中文] 育儿支援中心指导员：　这样啊。
+
+[日文] 子育て支援センター相談員：　お子さんがなんにも食べなかったら、心配ですよね。
+[发音] A：　Okosan ga nannimo tabenakattara, shinpai desu yo ne.
+[中文] 育儿支援中心指导员：　孩子什么都不吃的话，就是让人担心啊。
+
+[日文] 子育て支援センター相談員：　離乳食はいつから始めましたか。
+[发音] A：　Rinyuushoku wa itsu kara hajimemashita ka.
+[中文] 育儿支援中心指导员：　辅食是从什么时候开始的呢？
+
+[日文] リナ：　5か月から始めました。
+[发音] B：　Gokagetsu kara hajimemashita.
+[中文] 莉娜：　从5个月的时候开始的。
+
+[日文] リナ：　最初はバナナとパパイヤとおかゆを食べました。
+[发音] B：　Saisho wa banana to papaiya to okayu o tabemashita.
+[中文] 莉娜：　最初吃香蕉、木瓜和粥之类的。
+
+[日文] 子育て支援センター相談員：　パパイヤ。
+[发音] A：　Papaiya.
+[中文] 育儿支援中心指导员：　木瓜？
+
+[日文] リナ：　柔らかいパパイヤをつぶしてあげました。
+[发音] B：　Yawarakai papaiya o tsubushite agemashita.
+[中文] 莉娜：　把软和的木瓜捣碎喂的。
+
+[日文] リナ：　国ではよく赤ちゃんにあげるんです。
+[发音] B：　Kuni de wa yoku akachan ni agerun desu.
+[中文] 莉娜：　在我们国家，经常给宝宝喂的。
+
+[日文] 子育て支援センター相談員：　へえ、おもしろい。
+[发音] A：　Hee, omoshiroi.
+[中文] 育儿支援中心指导员：　欸，很有趣呢。
+
+[日文] リナ：　日本であんまり売っていませんけど…。
+[发音] B：　Nihon de anmari utte imasen kedo….
+[中文] 莉娜：　但是日本没大有卖的…。
+
+[日文] 子育て支援センター相談員：　そうですねぇ。
+[发音] A：　Soo desu nee.
+[中文] 育儿支援中心指导员：　是啊。
+
+[日文] 子育て支援センター相談員：　最近はどんなものを食べていますか。
+[发音] A：　Saikin wa donna mono o tabete imasu ka.
+[中文] 育儿支援中心指导员：　最近在吃怎样的东西呢？
+
+[日文] リナ：　最近は、バナナだけは食べますけど、ほかの野菜や肉や魚は、口に入れても、出しちゃうんです。
+[发音] B：　Saikin wa, banana dake wa tabemasu kedo, hokano yasai ya niku ya sakana wa, kuchi ni irete mo, dashichaun desu.
+[中文] 莉娜：　最近只吃香蕉，其他的蔬菜、肉和鱼喂了也会吐出来。
+
+[日文] リナ：　それに、最近はおかゆも食べなくなってしまって…。
+[发音] B：　Soreni, saikin wa okayu mo tabenaku natte shimatte….
+[中文] 莉娜：　并且，最近连粥也不吃了…。
+
+[日文] 子育て支援センター相談員：　え、でも、おかあさん、そんなに色々な食材を試してみて、すごく頑張っていますね。
+[发音] A：　E, demo, okaasan, sonnani iroirona shokuzai o tameshite mite, sugoku ganbatte imasu ne.
+[中文] 育儿支援中心指导员：　欸，但是您尝试了各种食材，已经非常努力了呢。
+
+[日文] リナ：　ええ。
+[发音] B：　Ee.
+[中文] 莉娜：　嗯。
+
+[日文] リナ：　でも、食べてくれないから、わたしもだんだんイライラしてきて、食事の時間が楽しくなくなってしまいました。
+[发音] B：　Demo, tabete kurenai kara, watashi mo dandan iraira-shite kite, shokuji no jikan ga tanoshiku nakunatte shimaimashita.
+[中文] 莉娜：　但是，因为他不吃，我也会渐渐变焦躁，吃饭的时间也就变得不那么愉快了。
+
+[日文] 子育て支援センター相談員：　せっかく作っても食べてくれないと悲しくなってしまいますよね。
+[发音] A：　Sekkaku tsukutte mo tabete kurenai to kanashiku natte shimaimasu yo ne.
+[中文] 育儿支援中心指导员：　好不容易做了却不吃，确实会伤心啊。
+
+[日文] リナ：　はい。
+[发音] B：　Hai.
+[中文] 莉娜：　是的。
+
+[日文] 子育て支援センター相談員：　母乳やミルクは飲んでいますか。
+[发音] A：　Bonyuu ya miruku wa nonde imasu ka.
+[中文] 育儿支援中心指导员：　在喝母乳或奶粉吗？
+
+[日文] リナ：　はい。
+[发音] B：　Hai.
+[中文] 莉娜：　在。
+
+[日文] 子育て支援センター相談員：　母乳やミルクをちゃんと飲んでいるなら、栄養はとれていますから、大きな心配はいりませんよ。
+[发音] A：　Bonyuu ya miruku o chanto nonde iru nara, eeyoo wa torete imasu kara, ookina shinpai wa irimasen yo.
+[中文] 育儿支援中心指导员：　如果母乳或奶粉喝得好的话，也能摄取营养，所以不需要太多担心。
+
+[日文] リナ：　よかった～。
+[发音] B：　Yokattaa.
+[中文] 莉娜：　太好了～。
+
+[日文] 子育て支援センター相談員：　頑張りすぎないで、疲れたときは市販の離乳食を使ってもいいし。
+[发音] A：　Ganbari suginai de, tsukareta toki wa shihan no rinyuushoku o tsukatte mo ii shi.
+[中文] 育儿支援中心指导员：　不要太过努力了，累的时候也可以使用市面销售的辅食的。
+
+[日文] リナ：　しはんのり…。
+[发音] B：　Shihannori….
+[中文] 莉娜：　Shihannori…。
+
+[日文] 子育て支援センター相談員：　しはん　の　りにゅうしょく、スーパーとかで売ってるびんとかパックとかの離乳食です。
+[发音] A：　Shihan no rinyuu-shoku, suupaa toka de utte ru bin toka pakku toka no rinyuushoku desu.
+[中文] 育儿支援中心指导员：　Shihan no rinyuushoku(辅食)，就是在超市等地方卖的瓶装或盒装的辅食。
+
+[日文] リナ：　ああ、はいはい…。
+[发音] B：　Aa, hai hai….
+[中文] 莉娜：　啊～，好的好的…。
+
+[日文] 子育て支援センター相談員：　そうそう、ここのセンターで、離乳食講座をやっているんです。
+[发音] A：　Soo soo, koko no sentaa de, rinyuushoku-kooza o yatte irun desu.
+[中文] 育儿支援中心指导员：　对了，这里的中心也有开办辅食讲座。
+
+[日文] 子育て支援センター相談員：　リナさんもよかったら参加してみませんか。
+[发音] A：　Rina-san mo yokattara sanka shite mimasen ka.
+[中文] 育儿支援中心指导员：　如果可以的话，您要不要参加看看？
+

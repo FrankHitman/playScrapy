@@ -1,0 +1,162 @@
+标题: 
+描述: 
+[日文] アンディ：　すみません。
+[发音] A：　Sumimasen.
+[中文] 安迪：　你好。
+
+[日文] アンディ：　この前、入院に関する書類を一式いただいたんですが、ちょっとこの「出産育児一時金」について教えていただけますか。
+[发音] A：　Konomae, nyuuin ni kansuru shorui o isshiki itadaitan desu ga, chotto kono “shussan-ikuji-ichijikin” ni tsuite oshiete itadakemasu ka.
+[中文] 安迪：　之前领了一份住院相关的资料，可以问一下关于“shussanikujiichijikin”的问题吗？
+
+[日文] 病院受付：　ああ、出産育児一時金についてですね。
+[发音] B：　Aa, shussan-ikuji-ichijikin ni tsuite desu ne.
+[中文] 医院挂号处：　啊～，关于shussanikujiichijikin（分娩育儿临时津贴）啊。
+
+[日文] 病院受付：　一時金のどのようなことですか。
+[发音] B：　Ichijikin no donoyoona koto desu ka.
+[中文] 医院挂号处：　临时津贴的什么问题呢？
+
+[日文] アンディ：　ああ、ええと、一時金をどうやって申し込むのか、とか、あと、どんなタイミングで、どうやって受け取るのかとか、です。
+[发音] A：　Aa, eeto, ichijikin o dooyatte mooshikomu no ka, toka, ato, donna taimingu de, dooyatte uketoru no ka toka, desu.
+[中文] 安迪：　啊～，嗯～，比如如何申请临时津贴，然后什么时候申请，怎么领取之类的。
+
+[日文] 病院受付：　ああ、申請の仕方や受け取りの方法ですね。
+[发音] B：　Aa, shinsee no shikata ya uketori no hoohoo desu ne.
+[中文] 医院挂号处：　啊～，是申请方法和领取方法，对吧。
+
+[日文] 病院受付：　ええと、出産育児一時金についてはご存知ですよね。
+[发音] B：　Eeto, shussan-ikuji-ichijikin ni tsuite wa gozonji desu yo ne.
+[中文] 医院挂号处：　嗯～，分娩育儿临时津贴您是知道的，对吗？
+
+[日文] アンディ：　はい、職場の先輩から聞きました。
+[发音] A：　Hai, shokuba no senpai kara kikimashita.
+[中文] 安迪：　是的，工作单位的前辈告诉我的。
+
+[日文] アンディ：　子どもが生まれたとき、お金がかかるから、それを助けてくれる制度があるって。
+[发音] A：　Kodomo ga umareta toki, okane ga kakaru kara, sore o tasukete kureru seedo ga aru tte.
+[中文] 安迪：　说是生孩子的时候，要花钱，所以就有补助的制度。
+
+[日文] 病院受付：　ええ、そうですね。
+[发音] B：　Ee, soo desu ne.
+[中文] 医院挂号处：　嗯，是的。
+
+[日文] 病院受付：　まず、申請ですが、病院によって違うこともあるんですけど、当院では、それぞれのご家庭から勤務先への申請をお願いしています。
+[发音] B：　Mazu, shinsee desu ga, byooin ni yotte chigau koto mo arun desu kedo, tooin de wa, sorezore no gokazoku kara kinmusaki e no shinsee o onegaishite imasu.
+[中文] 医院挂号处：　首先是申请，不同医院会有所不同，我们医院是请各家自己向工作单位申请。
+
+[日文] アンディ：　ああ、ではわたしたちの方でこの書類を書いて、会社に提出すればいいんですね。
+[发音] A：　Aa, dewa watashitachi no hoo de kono shorui o kaite, kaisha ni teeshutsu-sureba iin desu ne.
+[中文] 安迪：　啊～，就是我们自己填写这个资料，提交给公司就行吗？
+
+[日文] 病院受付：　はい。
+[发音] B：　Hai.
+[中文] 医院挂号处：　是的。
+
+[日文] アンディ：　一時金の受け取りというのは、どんな流れになっているんですか。
+[发音] A：　Ichijikin no uketori to yuu no wa, donna nagare ni natte irun desu ka.
+[中文] 安迪：　临时津贴的领取，是怎样的流程呢？
+
+[日文] アンディ：　わたしたちが先にお金を受け取って、退院するときにそこから病院にお支払いするんでしょうか。
+[发音] A：　Watashitachi ga saki ni okane o uketotte, taiin-suru toki ni soko kara byooin ni oshiharai surun deshoo ka?
+[中文] 安迪：　是我们先领了钱，出院的时候再支付给医院吗？
+
+[日文] 病院受付：　ああ、それは病院が直接受け取ることになります。
+[发音] B：　Aa, sore wa byooin ga chokusetsu uketoru koto ni narimasu.
+[中文] 医院挂号处：　啊～，那是由医院直接领取的。
+
+[日文] アンディ：　そうなんですね。
+[发音] A：　Soo nan desu ne.
+[中文] 安迪：　是这样啊。
+
+[日文] 病院受付：　ええ、なので申請だけで大丈夫ですよ。
+[发音] B：　Ee, nanode shinsee dake de daijoobu desu yo.
+[中文] 医院挂号处：　嗯，所以只申请就行了。
+
+[日文] アンディ：　分かりました。
+[发音] A：　Wakarimashita.
+[中文] 安迪：　我知道了。
+
+[日文] 病院受付：　もし差額が出たら、その分は戻りますよ。
+[发音] B：　Moshi sagaku ga detara, sono bun wa modorimasu yo.
+[中文] 医院挂号处：　如果出现差额的话，那部分会退回来。
+
+[日文] アンディ：　ああ、なるほど。
+[发音] A：　Aa, naruhodo.
+[中文] 安迪：　啊～，原来如此。
+
+[日文] アンディ：　差額はあとからいただけるんですね。
+[发音] A：　Sagaku wa ato kara itadakerun desu ne.
+[中文] 安迪：　差额是过后领取，对吗？
+
+[日文] 病院受付：　ええ、そうです。
+[发音] B：　Ee, soo desu.
+[中文] 医院挂号处：　嗯，是的。
+
+[日文] 病院受付：　ああ、それと、アンディさんのお宅は、お父さんもお母さんも外国の方なので、ほかにも手続きが必要かと思います。
+[发音] B：　Aa, sore to, Andhi-san no otaku wa, otoosan mo okaasan mo gaikoku no kata na node, hoka ni mo tetsuzuki ga hitsuyoo ka to omoimasu.
+[中文] 医院挂号处：　啊～，另外，安迪先生夫妻都是外国人，所以还需要其他手续。
+
+[日文] アンディ：　ああ、確かに。
+[发音] A：　Aa, tashikani.
+[中文] 安迪：　啊～，确实是。
+
+[日文] 病院受付：　一度役所で確認してみてください。
+[发音] B：　Ichido yakusho de kakunin-shite mite kudasai.
+[中文] 医院挂号处：　请去市（区）政厅确认一下。
+
+[日文] アンディ：　そうですね。聞いてみます。
+[发音] A：　Soo desu ne. Kiite mimasu.
+[中文] 安迪：　这样啊。我们去问一下。
+
+[日文] アンディ：　すみません。
+[发音] A：　Sumimasen.
+[中文] 安迪：　你好。
+
+[日文] 市役所職員：　はい。
+[发音] C：　Hai.
+[中文] 市政厅职员：　你们好。
+
+[日文] アンディ：　わたしたち夫婦は2人とも外国人です。
+[发音] A：　Watashitachi fuufu wa futari tomo gaikokujin desu.
+[中文] 安迪：　我们夫妻俩都是外国人。
+
+[日文] アンディ：　もうすぐ子どもが生まれるんですが、どんな手続きが必要か教えていただけますか。
+[发音] A：　Moo sugu kodomo ga umarerun desu ga, donna tetsuzuki ga hitsuyoo ka oshiete itadakemasu ka.
+[中文] 安迪：　孩子不久就要出生了，能告诉我们需要哪些手续吗？
+
+[日文] 市役所職員：　ええ、もちろん。
+[发音] C：　Ee, mochiron.
+[中文] 市政厅职员：　嗯，当然。
+
+[日文] 市役所職員：　どうぞおかけください。
+[发音] C：　Doozo okake kudasai.
+[中文] 市政厅职员：　请坐。
+
+[日文] アンディ：　出生届のほかに、在留資格の申請も必要だと聞いたんですが、それで間違いないでしょうか。
+[发音] A：　Shusshootodoke no hoka ni, zairyuu-shikaku no shinsee mo hitsuyoo da to kiitan desu ga, sore de machigai nai deshoo ka.
+[中文] 安迪：　听说除了出生报告以外，还需要申请在留资格，是吗？
+
+[日文] 市役所職員：　はい。
+[发音] C：　Hai.
+[中文] 市政厅职员：　是的。
+
+[日文] 市役所職員：　出生届と生まれた赤ちゃんの在留資格の申請をお願いします。
+[发音] C：　Shusshootodoke to umareta akachan no zairyuu-shikaku no shinsee o onegaishimasu.
+[中文] 市政厅职员：　请提交出生报告，并申请新生儿的在留资格。
+
+[日文] アンディ：　いつまでに出せばいいですか。
+[发音] A：　Itsu made ni daseba ii desu ka.
+[中文] 安迪：　提交期限是什么时候呢？
+
+[日文] 市役所職員：　出生届は生まれて14日以内、在留資格の申請は30日以内にお願いします。
+[发音] C：　Shusshootodoke wa umarete juu-yokka inai, zairyuu-shikaku no shinsee wa sanjuu-nichi inai ni onegai shimasu.
+[中文] 市政厅职员：　出生报告在出生后14天以内提交，在留资格请在30天以内申请。
+
+[日文] 市役所職員：　在留資格のほうは必要な書類も多いので、早めに準備をはじめてくださいね。
+[发音] C：　Zairyuu-shikaku no hoo wa hitsuyoona shorui mo ooi node, hayame ni junbi o hajimete kudasai ne.
+[中文] 市政厅职员：　申请在留资格需要的资料也很多，所以请尽早开始准备。
+
+[日文] アンディ：　分かりました。
+[发音] A：　Wakarimashita.
+[中文] 安迪：　明白了。
+

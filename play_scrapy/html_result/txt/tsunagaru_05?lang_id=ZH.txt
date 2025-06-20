@@ -1,0 +1,130 @@
+标题: 1－1．结合场合寒暄
+描述: 可以告诉客户自己的姓名、部门和负责工作等，结合场合进行自我介绍。 可以告诉邻居自己的姓名和出身地等，进行自我介绍。
+[日文] ナレーション：　自己紹介は、職場や学校、ご近所など、新しい人間関係をつくり始めるときの第一歩です。
+[发音] A：　Jikoshookai wa, shokuba ya gakkoo, gokinjo nado, atarashii ningen-kankee o tsukurihajimeru toki no daiippo desu.
+[中文] 解说：　自我介绍是在工作场所、学校以及与左邻右舍等开始建立新的人际关系时的第一步。
+
+[日文] ナレーション：　相手や場所が変わると、自己紹介の仕方も変わります。
+[发音] A：　Aite ya basho ga kawaru to, jikoshookai no shikata mo kawarimasu.
+[中文] 解说：　如果对方和场所发生变化，那么自我介绍的方法也会跟着变化。
+
+[日文] ナレーション：　その場に合った、適切な自己紹介を心がけましょう。
+[发音] A：　Sono ba ni atta, tekisetsuna jikoshookai o kokorogakemashoo.
+[中文] 解说：　注意结合场合，进行恰当的自我介绍吧。
+
+[日文] ナレーション：　例えば、仕事で取引先に自己紹介をするときはこのような感じになります。
+[发音] A：　Tatoeba, shigoto de torihikisaki ni jikoshookai o suru toki wa konoyoona kanji ni narimasu.
+[中文] 解说：　例如，在工作中向客户进行自己介绍时是这种感觉。
+
+[日文] ビン：　つなひろ産業のビンです。
+[发音] B：　Tsunahiro-sangyoo no Bin desu.
+[中文] Binh：　我是融贯产业的Binh。
+
+[日文] ビン：　営業を担当しています。
+[发音] B：　Eegyoo o tantoo shite imasu.
+[中文] Binh：　负责营业。
+
+[日文] ビン：　どうぞよろしくお願いします。
+[发音] B：　Doozo yoroshiku onegai shimasu.
+[中文] Binh：　请您多多关照。
+
+[日文] 取引先：　はじめまして。
+[发音] C：　Hajimemashite.
+[中文] 客户：　初次见面。
+
+[日文] 取引先：　つなひろ社広報課の山田です。
+[发音] C：　Tsunahiro-sha koohoo-ka no Yamada desu.
+[中文] 客户：　我是融贯公司宣传课的山田。
+
+[日文] 取引先：　よろしくお願いします。
+[发音] C：　Yoroshiku onegaishimasu.
+[中文] 客户：　请多多关照。
+
+[日文] 取引先：　頂戴します。
+[发音] C：　Choodai shimasu.
+[中文] 客户：　我收下了。
+
+[日文] ナレーション：　職場などでの自己紹介では、家族構成や趣味、特技などの個人的な話題については言わないことが多いです。
+[发音] A：　Shokuba nado deno jikoshookai dewa, kazoku-koosee ya shumi, tokugi nado no kojintekina wadai ni tsuite wa iwanai koto ga ooi desu.
+[中文] 解说：　在工作场所等场合中的自我介绍，大多都不会讲到家庭构成、兴趣爱好和特长等个人话题。
+
+[日文] ナレーション：　一方、例えば、引っ越して、初めて近所の人に自己紹介をするときは、どうでしょう。
+[发音] A：　Ippoo, tatoeba, hikkoshi-shite, hajimete kinnjo no hito ni jikoshookai o suru toki wa, doodeshoo.
+[中文] 解说：　另一方面，比如搬家后，在初次向邻居进行自我介绍时，又是怎样的呢？
+
+[日文] 隣人：　はじめまして。
+[发音] D：　Hajimemashite.
+[中文] 邻居：　初次见面。
+
+[日文] 隣人：　隣に引っ越してきた田中と申します。
+[发音] D：　Tonari ni hikkoshite kita Tanaka to mooshimasu.
+[中文] 邻居：　我是刚搬来隔壁的田中。
+
+[日文] 隣人：　よろしくお願いします。
+[发音] D：　Yoroshiku onegaishimasu.
+[中文] 邻居：　请多多关照。
+
+[日文] ビン：　はじめまして。
+[发音] B：　Hajimemashite.
+[中文] Binh：　初次见面。
+
+[日文] ビン：　ビンです。
+[发音] B：　Bin desu.
+[中文] Binh：　我是Binh。
+
+[日文] ビン：　よろしくお願いします。
+[发音] B：　Yoroshiku onegaishimasu.
+[中文] Binh：　请多多关照。
+
+[日文] 隣人：　これ、私の地元のお菓子です。
+[发音] D：　Kore, watashi no jimoto no okashi desu.
+[中文] 邻居：　这是我家乡的点心。
+
+[日文] 隣人：　よかったら召し上がってください。
+[发音] D：　Yokattara, meshiagatte kudasai.
+[中文] 邻居：　如果您不介意的话，请尝一尝。
+
+[日文] ビン：　ありがとうございます。
+[发音] B：　Arigatoogozaimasu.
+[中文] Binh：　谢谢。
+
+[日文] ビン：　へえ、北海道のご出身なんですね。
+[发音] B：　Hee, Hokkaidoo no goshusshin nan desu ne.
+[中文] Binh：　欸，你来自北海道啊。
+
+[日文] ビン：　以前、一度、旅行したことがあります。
+[发音] B：　Izen, ichido, ryokoo shita koto ga arimasu.
+[中文] Binh：　我以前去旅行过一次。
+
+[日文] ビン：　いい所ですよね。
+[发音] B：　Ii tokoro desu yo ne.
+[中文] Binh：　是个不错的地方啊。
+
+[日文] 隣人：　そうですか。
+[发音] D：　Soo desu ka.
+[中文] 邻居：　是吗？
+
+[日文] 隣人：　ありがとうございます。
+[发音] D：　Arigatoogozaimasu.
+[中文] 邻居：　谢谢。
+
+[日文] 隣人：　これから、よろしくお願いします。
+[发音] D：　Korekara, yoroshiku onegai shimasu.
+[中文] 邻居：　今后请多多关照。
+
+[日文] ナレーション：　このように、近所の人に自己紹介をするときは、名前のほかに、出身地や前に住んでいた所の話など、個人的なことを言う場合もあります。
+[发音] A：　Konoyooni, kinnjo no hito ni jikoshookai o suru toki wa, namae no hoka ni, shusshin-chi ya mae ni sunde ita tokoro no hanashi nado, kojintekina koto o iu baai mo arimasu.
+[中文] 解说：　像这样，向邻居介绍自己时，除了名字以外，有时也会提到出身地和以前居住的地方等私人话题。
+
+[日文] ナレーション：　ただし、最近はあまり個人的なことは話さず、名前だけを話すこともあります。
+[发音] A：　Tadashi, saikin wa amari kojintekina koto wa hanasazu, namae dake o hanasu koto mo arimasu.
+[中文] 解说：　但是，最近也有不太聊到私人话题，仅说一下名字的。
+
+[日文] ナレーション：　自己紹介は、相手や場所などの状況によって、伝えるべき内容や伝え方が変わります。
+[发音] A：　Jikoshookai wa, aite ya basho nado no jookyoo ni yotte, tsutaerubeki naiyoo ya tsutae-kata ga kawarimasu.
+[中文] 解说：　根据对方和场所等情况，自我介绍应表达的内容和表达方式都会发生变化。
+
+[日文] ナレーション：　場面に合った自己紹介をして、より良い人間関係を築いていきましょう。
+[发音] A：　Bamen ni atta jikoshookai o shite, yori yoi ningen-kankee o kizuite ikimasyoo.
+[中文] 解说：　结合场合进行恰当的自我介绍，构建更好的人际关系吧。
+

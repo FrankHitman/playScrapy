@@ -1,0 +1,110 @@
+标题: 2－1．喂・・・
+描述: 可以听懂并理解有关快递配送时间发生变更的简单说明。 在出现包裹延迟送达的问题时，可以与快递公司商讨解决方法。
+[日文] アンジェラ：　もしもし。
+[发音] A：　Moshimoshi.
+[中文] 安吉拉：　喂～。
+
+[日文] 店員：　こちら、ネット通販文化モールの田中と申します。
+[发音] B：　Kochira, netto-tsuhan-bunka-mooru no Tanaka to mooshimasu.
+[中文] 店员：　您好，我是网购文化商城的田中。
+
+[日文] 店員：　サントス・アンジェラ様のお電話でよろしいでしょうか。
+[发音] B：　Santosu Anjera sama no odenwa de yoroshii desyoo ka.
+[中文] 店员：　请问是桑托斯·安吉拉女士的电话吗？
+
+[日文] アンジェラ：　はい、そうです。
+[发音] A：　Hai, soo desu.
+[中文] 安吉拉：　对，是的。
+
+[日文] 店員：　いつもありがとうございます。
+[发音] B：　Itsumo arigatoo gozaimasu.
+[中文] 店员：　感谢您一直以来的惠顾。
+
+[日文] 店員：　先日ご注文いただいたバッグの件で、ご連絡させていただきました。
+[发音] B：　Senjitsu gochuumon itadaita baggu no ken de, gorenraku-sasete itadakimashita.
+[中文] 店员：　关于前几天您订购的包的事，这里跟您汇报一下情况。
+
+[日文] 店員：　今、お時間よろしいでしょうか。
+[发音] B：　Ima, ojikan yoroshii desyoo ka.
+[中文] 店员：　请问您现在时间上方便吗？
+
+[日文] アンジェラ：　はい。
+[发音] A：　Hai.
+[中文] 安吉拉：　方便。
+
+[日文] 店員：　あの～、大変申し訳ありませんが、木曜日着の配送予定だった商品のお届けが、土曜日になってしまいそうなんですが…。
+[发音] B：　Anoo, taihen mooshiwake arimasenga, mokuyoobi-chaku no haisoo-yotee datta shoohin no otodoke ga, doyoobi ni natte shimaisoo nan desu ga…..
+[中文] 店员：　嗯～，非常抱歉，商品发货预计的是星期四到达，现在变成了星期六…。
+
+[日文] アンジェラ：　え、そうなんですか。
+[发音] A：　E, soo nan desu ka.
+[中文] 安吉拉：　欸，这样啊？
+
+[日文] アンジェラ：　どうしよう…。
+[发音] A：　Doo shiyoo….
+[中文] 安吉拉：　怎么办呢…。
+
+[日文] アンジェラ：　土曜日の友達の結婚式で使うつもりだったんですけど…。
+[发音] A：　Doyoobi no tomodachi no kekkon-shiki de tsukau tsumori dattan desu kedo….
+[中文] 安吉拉：　我打算周六在朋友婚礼上用呢…。
+
+[日文] アンジェラ：　金曜日までに届けてもらうことってできませんか。
+[发音] A：　Kinyoobi made ni todokete morau kototte dekimasen ka.
+[中文] 安吉拉：　可以周五之前送到吗？
+
+[日文] 店員：　そうですね。
+[发音] B：　Soo desu ne.
+[中文] 店员：　这样啊。
+
+[日文] 店員：　金曜日に、星丸運輸中央配送センターには届いているんですが…。
+[发音] B：　Kinyoobi ni Hoshimaru-un-yu Chuuoo-haisoo-sentaa ni wa todoite irun desu ga….
+[中文] 店员：　星期五会到达星丸运输中央配送中心…。
+
+[日文] アンジェラ：　ああ、それって、高速バスターミナルの近くですよね。
+[发音] A：　Aa, sorette, koosoku-basu-taaminaru no chikaku desu yo ne.
+[中文] 安吉拉：　啊～，那里在高速大巴总站附近吧？
+
+[日文] 店員：　はい、さようでございます。
+[发音] B：　Hai, sayoo degozaimasu.
+[中文] 店员：　对，就是。
+
+[日文] アンジェラ：　あの～、わたしが、配送センターに取りに行くことってできますか。
+[发音] A：　Anoo, watashi ga, haisoo-sentaa ni tori ni iku kototte dekimasu ka.
+[中文] 安吉拉：　那～，我可以自己去配送中心取吗？
+
+[日文] 店員：　はい、それでよろしいでしょうか。
+[发音] B：　Hai, sore de yoroshii deshoo ka.
+[中文] 店员：　可以，这样没关系吗？
+
+[日文] アンジェラ：　はい、大丈夫です。
+[发音] A：　Hai, daijoobu desu.
+[中文] 安吉拉：　嗯，没关系。
+
+[日文] 店員：　こちらの不手際でお手数をおかけして申し訳ありません。
+[发音] B：　Kochira no futegiwa de otesuu o okakeshite mooshiwake arimasen.
+[中文] 店员：　因为我们的马虎，给您添麻烦了，非常抱歉。
+
+[日文] 店員：　そうしましたら、こちらで連絡しておきますので、配送センターで、ご住所とお名前、今から言う荷物の番号をお伝えいただけますか。
+[发音] B：　Sooshimashitara, kochira de renraku shite okimasu node, haisoo-senntaa de, gojuusho to onamae, ima kara iu nimotsu no bangoo o otsutae itadakemesu ka.
+[中文] 店员：　这样的话，我们这边会跟配送中心提前联系，到时请您告诉他们您的住址、姓名和我接下来告诉您的包裹单号。
+
+[日文] アンジェラ：　はい、わかりました。
+[发音] A：　Hai, wakarimashita.
+[中文] 安吉拉：　好的，我明白了。
+
+[日文] 店員：　では、お荷物の番号は。
+[发音] B：　Dewa, onimotsu no bangoo wa.
+[中文] 店员：　现在我告诉您包裹的单号。
+
+[日文] アンジェラ：　あ、ちょっと待ってください。
+[发音] A：　A, chotto matte kudasai.
+[中文] 安吉拉：　啊，请稍等一下。
+
+[日文] アンジェラ：　今、メモを用意しますので。
+[发音] A：　Ima, memo o yooi shimasu node.
+[中文] 安吉拉：　我现在准备一下笔记。
+
+[日文] アンジェラ：　はい、お願いします。
+[发音] A：　Hai, onegaishimasu.
+[中文] 安吉拉：　好的，麻烦您了。
+

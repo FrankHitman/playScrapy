@@ -1,0 +1,106 @@
+标题: 3－1．这里禁止停放自行车哦
+描述: 可以使用简短的语句，向附近的人询问能够停放自行车的场所。 可以通过简短的语句，向管理人询问自行车停车场的利用方法，并理解针对该问题的说明。
+[日文] ビン：　すみません。
+[发音] A：　Sumimasen.
+[中文] Binh：　请问，
+
+[日文] ビン：　ここに自転車、とめてもいいですか。
+[发音] A：　Koko ni jitensha, tometemo ii desu ka.
+[中文] Binh：　这里可以停自行车吗？
+
+[日文] 指導係：　あ、ここは駐輪禁止なんですよ。
+[发音] B：　A, koko wa chuurin-kinshi nan desu yo.
+[中文] 管理员：　啊，这里禁止停放自行车哦。
+
+[日文] ビン：　そうなんですか。
+[发音] A：　Soo nan desu ka.
+[中文] Binh：　是吗？
+
+[日文] ビン：　どこか近くにとめられるところ、ありませんか。
+[发音] A：　Doko ka chikaku ni tomerareru tokoro, arimasen ka.
+[中文] Binh：　这附近有哪里可以停吗？
+
+[日文] 指導係：　駅の裏に駐輪場がありますよ。
+[发音] B：　Eki no ura ni chuurin-joo ga arimasu yo.
+[中文] 管理员：　车站后面有自行车停车场。
+
+[日文] ビン：　あ、そうですか。
+[发音] A：　A, soo desu ka.
+[中文] Binh：　啊，是吗。
+
+[日文] ビン：　ありがとうございます。
+[发音] A：　Arigatoo gozaimasu.
+[中文] Binh：　谢谢。
+
+[日文] ビン：　あのう、すみません。
+[发音] A：　Anoo, sumimasen.
+[中文] Binh：　你好，打扰一下。
+
+[日文] ビン：　自転車をとめたいんですけど。
+[发音] A：　Jitensha o tometain desu kedo.
+[中文] Binh：　我想停自行车。
+
+[日文] 管理人：　じゃあ、そこでチケットを買ってください。
+[发音] C：　Jaa, soko de chiketto o katte kudasai.
+[中文] 管理人：　那请您在那里买一下票。
+
+[日文] 管理人：　1回100円です。
+[发音] C：　Ikkai hyaku-en desu.
+[中文] 管理人：　1次100日元。
+
+[日文] ビン：　あのう、すみません。
+[发音] A：　Anoo, sumimasen.
+[中文] Binh：　你好，打扰一下。
+
+[日文] ビン：　毎日とめるなら、定期券買った方が安いですよね。
+[发音] A：　Mainichi tomeru nara, teekiken katta hoo ga yasui desu yo ne.
+[中文] Binh：　每天停放的话，买月票更便宜，对吗？
+
+[日文] 管理人：　そうですね。
+[发音] C：　Soo desu ne.
+[中文] 管理人：　是的。
+
+[日文] ビン：　1か月1,700円…。
+[发音] A：　Ikkagetsu sen-nanahyaku-en….
+[中文] Binh：　一个月1,700日元…。
+
+[日文] ビン：　毎回100円払うよりは安いですよね。
+[发音] A：　Maikai hyaku-en harau yori wa yasui desu yo ne.
+[中文] Binh：　比每次付100日元要便宜吧。
+
+[日文] ビン：　どうしようかなあ。
+[发音] A：　Dooshiyoo kanaa.
+[中文] Binh：　怎么办呢。
+
+[日文] ビン：　とりあえず1か月の定期券を買ってみます。
+[发音] A：　Toriaezu ikkagetsu no teekiken o katte mimasu.
+[中文] Binh：　暂时先买一个月的月票试试。
+
+[日文] ビン：　更新もできるんですよね。
+[发音] A：　Kooshin mo dekirun desu yo ne.
+[中文] Binh：　也可以续期，对吧？
+
+[日文] 管理人：　はい。
+[发音] C：　Hai.
+[中文] 管理人：　对。
+
+[日文] ビン：　定期券の購入って、今日でもできますか。
+[发音] A：　Teekiken no koonyuutte, kyoo demo dekimasu ka.
+[中文] Binh：　月票今天就可以买吗？
+
+[日文] 管理人：　はい、身分証明書をお持ちでしたら。
+[发音] C：　Hai, mibun-shoomeisho o omochi deshi tara.
+[中文] 管理人：　可以，如果您带了身份证明书的话。
+
+[日文] ビン：　在留カードでいいですか。
+[发音] A：　Zairyuu-kaado de ii desu ka.
+[中文] Binh：　在留卡可以吗？
+
+[日文] 管理人：　はい。
+[发音] C：　Hai.
+[中文] 管理人：　可以。
+
+[日文] 管理人：　では、こちらの申し込み用紙に記入してください。
+[发音] C：　Dewa, kochira no mooshikomi-yooshi ni kinyuu shite kudasai.
+[中文] 管理人：　那请您填写一下这里的申请单。
+

@@ -1,0 +1,102 @@
+标题: 5－1．这是避难点的标记
+描述: 在与同事聊天过程中，可以共享对于台风和地震的担忧之情。 关于防灾，可以询问并确认自己想要了解的信息。
+[日文] アンジェラ：　最近、台風とか地震とか、多いですね。
+[发音] A：　Saikin, taifuu toka jishin toka, ooi desu ne.
+[中文] 安吉拉：　最近台风啊地震什么的，真多啊。
+
+[日文] 同僚：　そうですね。
+[发音] B：　Soo desu ne.
+[中文] 同事：　是啊。
+
+[日文] アンジェラ：　この間の台風のときは、どうしたらいいか分からなくて、とても怖かったです。
+[发音] A：　Kono aida no taifuu no toki wa, doo shitara ii ka wakaranakute, totemo kowakatta desu.
+[中文] 安吉拉：　前几天刮台风的时候，不知道该怎么办才好，害怕极了。
+
+[日文] 同僚：　ああ、この間の台風は、一晩中、雨と風がすごかったですよね。
+[发音] B：　Aa, kono aida no taifuu wa, hitobanjuu, ame to kaze ga sugokatta desu yo ne.
+[中文] 同事：　啊，前几天那台风，一整晚都在刮风下雨，很糟糕啊。
+
+[日文] アンジェラ：　本当に。
+[发音] A：　Hontoo ni.
+[中文] 安吉拉：　真的是。
+
+[日文] アンジェラ：　災害のニュースを聞くたびに、心配になっちゃいます。
+[发音] A：　Saigai no nyuusu o kiku tabi ni, shinpai ni nacchaimasu.
+[中文] 安吉拉：　每次听到灾害新闻，都会很担心。
+
+[日文] 同僚：　そうですよね。
+[发音] B：　Soo desu yo ne.
+[中文] 同事：　就是啊。
+
+[日文] 同僚：　アンジェラさんは、自分の家の近くの避難場所を知っていますか。
+[发音] B：　Anjera-san wa, jibun no ie no chikaku no hinan-basho o shitte imasu ka.
+[中文] 同事：　安吉拉你知道自家附近的避难点吗？
+
+[日文] アンジェラ：　避難場所って、地震のときとかに、みんなが逃げる場所のことですか。
+[发音] A：　Hinan-basho tte,  jishin no toki toka ni, minna ga nigeru basho no koto desu ka.
+[中文] 安吉拉：　避难点，就是发生地震等的时候大家逃往的地方吗？
+
+[日文] 同僚：　そうです、そうです。
+[发音] B：　Soo desu, soo desu.
+[中文] 同事：　就是就是。
+
+[日文] 同僚：　普段から色々防災のことは、知っておいた方がいいですよ。
+[发音] B：　Fudan kara iroiro boosai no koto wa, shitte oita hoo ga ii desu yo.
+[中文] 同事：　平时还是要了解一下各种防灾知识为好哦。
+
+[日文] アンジェラ：　やっぱり、そうですよね。
+[发音] A：　Yappari soo desu yo ne.
+[中文] 安吉拉：　确实是。
+
+[日文] 同僚：　実は、この公園も、避難場所なんですよ。
+[发音] B：　Jitsu wa, kono kooen mo, hinan-basho nan desu yo.
+[中文] 同事：　这个公园实际上也是避难点哦。
+
+[日文] アンジェラ：　へえ、そうなんですか。
+[发音] A：　Hee, soo nan desu ka.
+[中文] 安吉拉：　诶，是吗？
+
+[日文] 同僚：　ほら、あそこの看板が見えますか。
+[发音] B：　Hora, asoko no kanban ga miemasu ka.
+[中文] 同事：　瞧，能看得见那边的牌子吗？
+
+[日文] アンジェラ：　はい。
+[发音] A：　Hai.
+[中文] 安吉拉：　看见了。
+
+[日文] 同僚：　行ってみますか。
+[发音] B：　Itte mimasu ka.
+[中文] 同事：　过去看一下吧。
+
+[日文] アンジェラ：　わあ、色々あるんですね。
+[发音] A：　Waa, iroiro arun desu ne.
+[中文] 安吉拉：　哇，各种信息都有呢。
+
+[日文] 同僚：　ほら、これが避難場所のマークですよ。
+[发音] B：　Hora, kore ga hinan-basho no maaku desu yo.
+[中文] 同事：　你看，这就是避难点的标记哦。
+
+[日文] 同僚：　覚えておいた方がいいですよ。
+[发音] B：　Oboete oita hoo ga ii desu yo.
+[中文] 同事：　最好把它记下来。
+
+[日文] アンジェラ：　ああ・・・自分のうちの近くの避難場所がどこか、どうやったら分かりますか。
+[发音] A：　Aa... jibun no uchi no chikaku no hinan-basho ga doko ka, doo yattara wakarimasu ka.
+[中文] 安吉拉：　啊…怎么才能知道距离自家最近的避难点在哪呢？
+
+[日文] 同僚：　インターネットでも調べられるし、市役所に行けば、地図ももらえると思いますよ。
+[发音] B：　Intaanetto demo shiraberareru shi, shiyakusho ni ikeba, chizu mo moraeru to omoimasu yo.
+[中文] 同事：　我想在互联网上也可以查得到，去市政厅的话，也可以拿到地图。
+
+[日文] アンジェラ：　そうですか。
+[发音] A：　Soo desu ka.
+[中文] 安吉拉：　这样啊。
+
+[日文] アンジェラ：　鈴木さんと話せて、ちょっと安心しました。
+[发音] A：　Suzuki-san to hanasete, chotto anshin-shimashita.
+[中文] 安吉拉：　能够跟铃木前辈说说这些，稍微放心些了呢。
+
+[日文] 同僚：　そうですか、よかったです。
+[发音] B：　Soo desu ka, yokatta desu.
+[中文] 同事：　是吗，那太好了。
+

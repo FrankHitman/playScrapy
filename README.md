@@ -15,13 +15,14 @@ pip install pytest-playwright
 pip install pytest-playwright playwright -U
 playwright install
 pip install scrapy-playwright
+cd play_scrapy
 scrapy crawl tsunagaru
 pip freeze > requirements.txt 
 
 ```
 
 ### Some notes
-first impression of scrapy
+#### first impression of scrapy
 ```
 MacBook-Pro:playPython frank$ scrapy shell "https://quotes.toscrape.com/page/1/"
 2025-06-18 20:20:50 [scrapy.utils.log] INFO: Scrapy 2.13.2 started (bot: scrapybot)
@@ -88,16 +89,28 @@ MacBook-Pro:playPython frank$ scrapy shell "https://quotes.toscrape.com/page/1/"
 [s]   view(response)    View response in a browser
 >>> 
 ```
+
+#### load javascript generated content
+run `scrapy shell "https://tsunagarujp.mext.go.jp/level03/c01/"` and 
 when using `view(response)` to check content of "https://tsunagarujp.mext.go.jp/level03/c01/", 
 the webpage is not fully loaded. So that introduce playwright to load javascript generated content.
 
+#### integrate with playwright
 while scrapy is a async framework, example in spiders/scrape_tsunagaru.py is a sync function.
 so that introduce scrapy-playwright plugin to integate playwright into scrapy.
 
+#### auto throttle
+when invoke the spider, there are some resource's response is 500, such as `https://tsunagarujp.mext.go.jp/api/v1/phrase?lang_type=ZH&page_id=LEVEL00-03&level_id=0&scene_number=3` which is loading the chat script.
 
+config the setting to AUTOTHROTTLE_ENABLE
+
+alternative solution is set DOWNLOAD_DELAY
+
+- https://docs.scrapy.org/en/latest/topics/autothrottle.html
+- https://docs.scrapy.org/en/latest/topics/settings.html#download-delay
 
 ### Todo
-- there are tsunagaru_18~19 crawled failed, find the reason and fix.
-- integrate data extract into scrapy 
-- all other leve chatting scrips, such as: level02
-- crawl the video
+- [ ] there are tsunagaru_18~19 crawled failed, find the reason and fix.
+- [ ] integrate data extract into scrapy 
+- [x] all other leve chatting scrips, such as: level02
+- [ ] crawl the video

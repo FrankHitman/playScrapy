@@ -114,3 +114,7 @@ alternative solution is set DOWNLOAD_DELAY
 - [ ] integrate data extract into scrapy 
 - [x] all other leve chatting scrips, such as: level02
 - [ ] crawl the video
+
+
+## Download HLS audio
+refer to [HTTP Live Streaming Readme.md](down_hls_audio/readme.md)

@@ -10,14 +10,13 @@ import os
 import re
 import requests
 import tempfile
-from urllib.parse import urljoin
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import unpad
 import subprocess
 from urllib.parse import urlparse, parse_qs, urlunparse, quote
 
 class NHKHLSDownloader:
-    def __init__(self, m3u8_content, cookies_string, base_url=None):
+    def __init__(self, m3u8_content, cookies_string='', base_url=None):
         """
         初始化下载器
         
@@ -34,13 +33,19 @@ class NHKHLSDownloader:
         self.key_data = None
         self.headers = {
             'Accept': '*/*',
-            'Accept-Language': 'ja,en-US;q=0.9,en;q=0.8',
-            'Referer': 'https://news.web.nhk/',
+            'Accept-Encoding': 'gzip, deflate, br, zstd',
+            'Accept-Language': 'zh-TW,zh;q=0.9,en;q=0.8,zh-CN;q=0.7',
+            'Connection': 'keep-alive',
             'DNT': '1',
-            'Sec-Ch-Ua': '"Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"',
-            'Sec-Ch-Ua-Mobile': '?0',
-            'Sec-Ch-Ua-Platform': '"macOS"',
-            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36',
+            'Origin': 'https://news.web.nhk',
+            'Referer': 'https://news.web.nhk/',
+            'Sec-Fetch-Dest': 'empty',
+            'Sec-Fetch-Mode': 'cors',
+            'Sec-Fetch-Site': 'cross-site',
+            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36',
+            'sec-ch-ua': '"Chromium";v="142", "Google Chrome";v="142", "Not_A Brand";v="99"',
+            'sec-ch-ua-mobile': '?0',
+            'sec-ch-ua-platform': '"macOS"',
         }
 
 
@@ -48,6 +53,8 @@ class NHKHLSDownloader:
     def _parse_cookies(self, cookie_string):
         """解析cookie字符串为字典格式"""
         cookies = {}
+        if not cookie_string:
+            return cookies
         for item in cookie_string.split(';'):
             if '=' in item:
                 key, value = item.strip().split('=', 1)
@@ -85,7 +92,7 @@ class NHKHLSDownloader:
         try:
             print(f"正在下载密钥: {self.key_uri}")
             # 密钥URL已经包含了必要的参数，直接使用
-            response = requests.get(self.key_uri, headers=self.headers, cookies=self.cookies, timeout=30)
+            response = requests.get(self.key_uri, headers=self.headers, timeout=30)
             response.raise_for_status()
             self.key_data = response.content
             print(f"密钥下载成功，长度: {len(self.key_data)} 字节")
@@ -123,7 +130,7 @@ class NHKHLSDownloader:
         print(f"构建的完整URL: {segment_url}")
         try:
             print(f"正在下载片段: {segment_name}")
-            response = requests.get(segment_url, headers=self.headers, cookies=self.cookies, timeout=30)
+            response = requests.get(segment_url, headers=self.headers, timeout=30)
             response.raise_for_status()
             
             # 保存加密的音频数据
@@ -241,71 +248,39 @@ class NHKHLSDownloader:
 
 def main():
     # M3U8播放列表内容
-    m3u8_content = """#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:7
-#EXT-X-MEDIA-SEQUENCE:1
-#EXT-X-PLAYLIST-TYPE:VOD
-#EXT-X-KEY:METHOD=AES-128,URI="https://media.vd.st.nhk/news/easy_audio/ne2025101017047_4IoalMQ7I5LORUIVdT34ExOCPsoXNKeSeEYMwuSy/serve.key?hdntl=exp=1760267440~acl=/*~data=hdntl~hmac=d4c8373db47aa78e836a0364b328906a149cfef8477ab7af22754ac74c007aed&aka_me_session_id=AAAAAAAAAACwjOtoAAAAAN6h5xsIs1%2fcA6%2fOJnHVxQNl4wn8CxHoVAcK5pkZmNzz5BKbsD1Od9hxf69Z+SyjTUp%2f6MsiCRwY&aka_media_format_type=hls"
-#EXTINF:6.016,
-index_64k_00001.aac?aka_me_session_id=AAAAAAAAAACwjOtoAAAAAN6h5xsIs1%2fcA6%2fOJnHVxQNl4wn8CxHoVAcK5pkZmNzz5BKbsD1Od9hxf69Z+SyjTUp%2f6MsiCRwY&aka_msn=1&aka_hls_version=3&aka_media_format_type=hls
-#EXTINF:6.016,
-index_64k_00002.aac?aka_me_session_id=AAAAAAAAAACwjOtoAAAAAN6h5xsIs1%2fcA6%2fOJnHVxQNl4wn8CxHoVAcK5pkZmNzz5BKbsD1Od9hxf69Z+SyjTUp%2f6MsiCRwY&aka_msn=2&aka_hls_version=3&aka_media_format_type=hls
-#EXTINF:6.016,
-index_64k_00003.aac?aka_me_session_id=AAAAAAAAAACwjOtoAAAAAN6h5xsIs1%2fcA6%2fOJnHVxQNl4wn8CxHoVAcK5pkZmNzz5BKbsD1Od9hxf69Z+SyjTUp%2f6MsiCRwY&aka_msn=3&aka_hls_version=3&aka_media_format_type=hls
-#EXTINF:6.016,
-index_64k_00004.aac?aka_me_session_id=AAAAAAAAAACwjOtoAAAAAN6h5xsIs1%2fcA6%2fOJnHVxQNl4wn8CxHoVAcK5pkZmNzz5BKbsD1Od9hxf69Z+SyjTUp%2f6MsiCRwY&aka_msn=4&aka_hls_version=3&aka_media_format_type=hls
-#EXTINF:6.016,
-index_64k_00005.aac?aka_me_session_id=AAAAAAAAAACwjOtoAAAAAN6h5xsIs1%2fcA6%2fOJnHVxQNl4wn8CxHoVAcK5pkZmNzz5BKbsD1Od9hxf69Z+SyjTUp%2f6MsiCRwY&aka_msn=5&aka_hls_version=3&aka_media_format_type=hls
-#EXTINF:6.016,
-index_64k_00006.aac?aka_me_session_id=AAAAAAAAAACwjOtoAAAAAN6h5xsIs1%2fcA6%2fOJnHVxQNl4wn8CxHoVAcK5pkZmNzz5BKbsD1Od9hxf69Z+SyjTUp%2f6MsiCRwY&aka_msn=6&aka_hls_version=3&aka_media_format_type=hls
-#EXTINF:6.016,
-index_64k_00007.aac?aka_me_session_id=AAAAAAAAAACwjOtoAAAAAN6h5xsIs1%2fcA6%2fOJnHVxQNl4wn8CxHoVAcK5pkZmNzz5BKbsD1Od9hxf69Z+SyjTUp%2f6MsiCRwY&aka_msn=7&aka_hls_version=3&aka_media_format_type=hls
-#EXTINF:6.016,
-index_64k_00008.aac?aka_me_session_id=AAAAAAAAAACwjOtoAAAAAN6h5xsIs1%2fcA6%2fOJnHVxQNl4wn8CxHoVAcK5pkZmNzz5BKbsD1Od9hxf69Z+SyjTUp%2f6MsiCRwY&aka_msn=8&aka_hls_version=3&aka_media_format_type=hls
-#EXTINF:6.016,
-index_64k_00009.aac?aka_me_session_id=AAAAAAAAAACwjOtoAAAAAN6h5xsIs1%2fcA6%2fOJnHVxQNl4wn8CxHoVAcK5pkZmNzz5BKbsD1Od9hxf69Z+SyjTUp%2f6MsiCRwY&aka_msn=9&aka_hls_version=3&aka_media_format_type=hls
-#EXTINF:6.016,
-index_64k_00010.aac?aka_me_session_id=AAAAAAAAAACwjOtoAAAAAN6h5xsIs1%2fcA6%2fOJnHVxQNl4wn8CxHoVAcK5pkZmNzz5BKbsD1Od9hxf69Z+SyjTUp%2f6MsiCRwY&aka_msn=10&aka_hls_version=3&aka_media_format_type=hls
-#EXTINF:1.836,
-index_64k_00011.aac?aka_me_session_id=AAAAAAAAAACwjOtoAAAAAN6h5xsIs1%2fcA6%2fOJnHVxQNl4wn8CxHoVAcK5pkZmNzz5BKbsD1Od9hxf69Z+SyjTUp%2f6MsiCRwY&aka_msn=11&aka_hls_version=3&aka_media_format_type=hls
-#EXT-X-ENDLIST"""
-
-    m3u8_content2="""
+    m3u8_content = """
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:7
 #EXT-X-MEDIA-SEQUENCE:1
 #EXT-X-PLAYLIST-TYPE:VOD
-#EXT-X-KEY:METHOD=AES-128,URI="https://media.vd.st.nhk/news/easy_audio/ne2025101012062_veGbQ9D7MZGDNIUGzqW97D35WRBjpUSYCUrDy9Sf/serve.key?hdntl=exp=1760413473~acl=/*~data=hdntl~hmac=306b8ecbaedcaf7ae5160b935f5973704be9a16ab9a1a5e8a8363e2e827729ec&aka_me_session_id=AAAAAAAAAAAhx+1oAAAAAEp1UQTNFxR5835yZvkInCCcDpqUGkuHhTpJRJL9Y8oCB46ohLFdX6B%2fEWZ1IR6itGJmEFJPCWCY&aka_media_format_type=hls"
+#EXT-X-KEY:METHOD=AES-128,URI="https://media.vd.st.nhk/news/easy_audio/ne2025110411598_Fkq1hxsUmCcj8RX3dkHhQIczXjXPo99gHUtyPAlt/serve.key?hdntl=exp=1762770600~acl=/*~data=hdntl~hmac=0e983205854ed6bbb760ac9ab1ab7a00655e5ddefe23e25742f3ca25789d0916&aka_me_session_id=AAAAAAAAAACovhFpAAAAAKL0QdDXk2N1Rjoj4PSUjX%2fzSRZayOwFR91icpEPctVqa5%2fDmL8v%2fTZIL6H2TLCFwjmokx8Re8TF&aka_media_format_type=hls"
 #EXTINF:6.016,
-index_64k_00001.aac?aka_me_session_id=AAAAAAAAAAAhx+1oAAAAAEp1UQTNFxR5835yZvkInCCcDpqUGkuHhTpJRJL9Y8oCB46ohLFdX6B%2fEWZ1IR6itGJmEFJPCWCY&aka_msn=1&aka_hls_version=3&aka_media_format_type=hls
+index_64k_00001.aac?aka_me_session_id=AAAAAAAAAACovhFpAAAAAKL0QdDXk2N1Rjoj4PSUjX%2fzSRZayOwFR91icpEPctVqa5%2fDmL8v%2fTZIL6H2TLCFwjmokx8Re8TF&aka_msn=1&aka_hls_version=3&aka_media_format_type=hls
 #EXTINF:6.016,
-index_64k_00002.aac?aka_me_session_id=AAAAAAAAAAAhx+1oAAAAAEp1UQTNFxR5835yZvkInCCcDpqUGkuHhTpJRJL9Y8oCB46ohLFdX6B%2fEWZ1IR6itGJmEFJPCWCY&aka_msn=2&aka_hls_version=3&aka_media_format_type=hls
+index_64k_00002.aac?aka_me_session_id=AAAAAAAAAACovhFpAAAAAKL0QdDXk2N1Rjoj4PSUjX%2fzSRZayOwFR91icpEPctVqa5%2fDmL8v%2fTZIL6H2TLCFwjmokx8Re8TF&aka_msn=2&aka_hls_version=3&aka_media_format_type=hls
 #EXTINF:6.016,
-index_64k_00003.aac?aka_me_session_id=AAAAAAAAAAAhx+1oAAAAAEp1UQTNFxR5835yZvkInCCcDpqUGkuHhTpJRJL9Y8oCB46ohLFdX6B%2fEWZ1IR6itGJmEFJPCWCY&aka_msn=3&aka_hls_version=3&aka_media_format_type=hls
+index_64k_00003.aac?aka_me_session_id=AAAAAAAAAACovhFpAAAAAKL0QdDXk2N1Rjoj4PSUjX%2fzSRZayOwFR91icpEPctVqa5%2fDmL8v%2fTZIL6H2TLCFwjmokx8Re8TF&aka_msn=3&aka_hls_version=3&aka_media_format_type=hls
 #EXTINF:6.016,
-index_64k_00004.aac?aka_me_session_id=AAAAAAAAAAAhx+1oAAAAAEp1UQTNFxR5835yZvkInCCcDpqUGkuHhTpJRJL9Y8oCB46ohLFdX6B%2fEWZ1IR6itGJmEFJPCWCY&aka_msn=4&aka_hls_version=3&aka_media_format_type=hls
+index_64k_00004.aac?aka_me_session_id=AAAAAAAAAACovhFpAAAAAKL0QdDXk2N1Rjoj4PSUjX%2fzSRZayOwFR91icpEPctVqa5%2fDmL8v%2fTZIL6H2TLCFwjmokx8Re8TF&aka_msn=4&aka_hls_version=3&aka_media_format_type=hls
 #EXTINF:6.016,
-index_64k_00005.aac?aka_me_session_id=AAAAAAAAAAAhx+1oAAAAAEp1UQTNFxR5835yZvkInCCcDpqUGkuHhTpJRJL9Y8oCB46ohLFdX6B%2fEWZ1IR6itGJmEFJPCWCY&aka_msn=5&aka_hls_version=3&aka_media_format_type=hls
+index_64k_00005.aac?aka_me_session_id=AAAAAAAAAACovhFpAAAAAKL0QdDXk2N1Rjoj4PSUjX%2fzSRZayOwFR91icpEPctVqa5%2fDmL8v%2fTZIL6H2TLCFwjmokx8Re8TF&aka_msn=5&aka_hls_version=3&aka_media_format_type=hls
 #EXTINF:6.016,
-index_64k_00006.aac?aka_me_session_id=AAAAAAAAAAAhx+1oAAAAAEp1UQTNFxR5835yZvkInCCcDpqUGkuHhTpJRJL9Y8oCB46ohLFdX6B%2fEWZ1IR6itGJmEFJPCWCY&aka_msn=6&aka_hls_version=3&aka_media_format_type=hls
+index_64k_00006.aac?aka_me_session_id=AAAAAAAAAACovhFpAAAAAKL0QdDXk2N1Rjoj4PSUjX%2fzSRZayOwFR91icpEPctVqa5%2fDmL8v%2fTZIL6H2TLCFwjmokx8Re8TF&aka_msn=6&aka_hls_version=3&aka_media_format_type=hls
 #EXTINF:6.016,
-index_64k_00007.aac?aka_me_session_id=AAAAAAAAAAAhx+1oAAAAAEp1UQTNFxR5835yZvkInCCcDpqUGkuHhTpJRJL9Y8oCB46ohLFdX6B%2fEWZ1IR6itGJmEFJPCWCY&aka_msn=7&aka_hls_version=3&aka_media_format_type=hls
+index_64k_00007.aac?aka_me_session_id=AAAAAAAAAACovhFpAAAAAKL0QdDXk2N1Rjoj4PSUjX%2fzSRZayOwFR91icpEPctVqa5%2fDmL8v%2fTZIL6H2TLCFwjmokx8Re8TF&aka_msn=7&aka_hls_version=3&aka_media_format_type=hls
 #EXTINF:6.016,
-index_64k_00008.aac?aka_me_session_id=AAAAAAAAAAAhx+1oAAAAAEp1UQTNFxR5835yZvkInCCcDpqUGkuHhTpJRJL9Y8oCB46ohLFdX6B%2fEWZ1IR6itGJmEFJPCWCY&aka_msn=8&aka_hls_version=3&aka_media_format_type=hls
+index_64k_00008.aac?aka_me_session_id=AAAAAAAAAACovhFpAAAAAKL0QdDXk2N1Rjoj4PSUjX%2fzSRZayOwFR91icpEPctVqa5%2fDmL8v%2fTZIL6H2TLCFwjmokx8Re8TF&aka_msn=8&aka_hls_version=3&aka_media_format_type=hls
 #EXTINF:6.016,
-index_64k_00009.aac?aka_me_session_id=AAAAAAAAAAAhx+1oAAAAAEp1UQTNFxR5835yZvkInCCcDpqUGkuHhTpJRJL9Y8oCB46ohLFdX6B%2fEWZ1IR6itGJmEFJPCWCY&aka_msn=9&aka_hls_version=3&aka_media_format_type=hls
-#EXTINF:1.280,
-index_64k_00010.aac?aka_me_session_id=AAAAAAAAAAAhx+1oAAAAAEp1UQTNFxR5835yZvkInCCcDpqUGkuHhTpJRJL9Y8oCB46ohLFdX6B%2fEWZ1IR6itGJmEFJPCWCY&aka_msn=10&aka_hls_version=3&aka_media_format_type=hls
+index_64k_00009.aac?aka_me_session_id=AAAAAAAAAACovhFpAAAAAKL0QdDXk2N1Rjoj4PSUjX%2fzSRZayOwFR91icpEPctVqa5%2fDmL8v%2fTZIL6H2TLCFwjmokx8Re8TF&aka_msn=9&aka_hls_version=3&aka_media_format_type=hls
+#EXTINF:2.627,
+index_64k_00010.aac?aka_me_session_id=AAAAAAAAAACovhFpAAAAAKL0QdDXk2N1Rjoj4PSUjX%2fzSRZayOwFR91icpEPctVqa5%2fDmL8v%2fTZIL6H2TLCFwjmokx8Re8TF&aka_msn=10&aka_hls_version=3&aka_media_format_type=hls
 #EXT-X-ENDLIST
 
 """
-    # Cookie字符串
-    cookies_string = """emergency-mode=0; efm={"sd":"2025-10-09T12:36:29.877Z","ed":"2025-10-16T12:36:29.877Z"}; consentToUse={"status":"optedin","entity":"household","area":{"areaId":"130","jisx0402":"13113","postal":"1508001","pref":"13"}}; bff-rt-authz=cjAyOnJXR2x0S0lxZ0hHZHptZGxqTlNYVCtmQ2ZyZ2gzT0NpNEpUTlhFTDVZMEtNZU1mV2RnRzVZQUQ5R1pJcHdFRU1iZForS040OHcwV0NBT0U9OnZrbHRIOG1PNE1sa1pOM1Q=; exp_z_rt=1762605391; authz_type=r-alaz; area_permanent=130; nhkApVolume=0.7; ak_bmsc=BB86E9E0ADCE452B5F6FEE777A6D175A~000000000000000000000000000000~YAAQBX8mFy2LwcyZAQAAoXfK0h3te3gq1qUD4drncdxgx+sNVLGr8KHoDNieW8EDcZCuC3ODYZYZicqwhmJW4UA70gXgJAftl95NckPn3ULfyRVgLnUMwQpHiwpIVHPCcdHur5R7+gCXeXyu+5dEXnm/+ssap7to9mFG7v5Bx40qcgtBnQkKgRFdRZTEWi3o7JB3Cf37SchqnSQPto8UD5XTADd5XVofFT6D4SbLXY/3HlBhSBTvSVUQF6bSfqyVCbJEd6TOH0jqDdkR2bEzFo9MIZIvcD3/WbCPEpYTxFc2NWCPenLv71NgSbiT85Q58QRyA9kpRFRMtgIcGgFH+ZuJuccs30eEO7tcTtjpxJzNVNLlggHKC53ZLF8XB4vShyF1hGn3c+5xJKP1Tv1Ke8U2SFq571u79Q==; z_at=eyJhbGciOiJFUzI1NiIsInR5cCI6ImF0K2p3dCIsImtpZCI6ImtpZC1hdXRoei1hYzEtcHJkLTAxIn0.eyJzdWIiOiJjOTcwOWZiMi0zYjE5LTQxYjItYjg2My03MzczY2QxYzEzYjUiLCJpc3MiOiJodHRwczovL3IuYXV0aHouYWMxLm5oayIsImFjdGl2YXRlZEJ5Ijoic2VsZi1hY3RpdmF0ZWQiLCJjbGllbnRfaWQiOiIxMzExNjg5NDQ0MCIsImxpY2Vuc2VUeXBlIjoiMiIsInByb2ZpbGVUeXBlIjoiYW5vbnltb3VzIiwiZ3JhbnRfdHlwZSI6ImF1dGhvcml6YXRpb25fY29kZSIsInByb2ZpbGVJZCI6ImM5NzA5ZmIyLTNiMTktNDFiMi1iODYzLTczNzNjZDFjMTNiNSIsInNjb3BlIjoiZ2V0Om5ld3MgZ2V0OnR2IiwiZXhwIjoxNzYwMjA2OTEyLCJpYXQiOjE3NjAxNzgxMTIsImVudGl0eSI6ImhvdXNlaG9sZCIsImp0aSI6Ik1JanhJNlNwRTJCY0FVcWRGbVNqaTFoR0ozWEZKYThIczhBemItZkF3eEUifQ.CNktPa2KTUQpKpJBI9BoYP05gK93HV8CL0L-5U-Ijz1v6KNyAqu3FtiVS7IbxLEIBxn7QpBz3HaixGDGF42GEg; exp_z_at=1760206912; bm_sv=85B07881C96CB70E703262AF8B66DCAB~YAAQDH8mFxVVBJqZAQAAmIjK0h0Ipdlg+1YCzzlgdTPUp/zHL3LcVGS0etSD1D+Bg+ZPyIMJyj3nk9CaUKUOzCJFH0vW6fH5A51tiCHAJGdDQhtZASdiKhF75G/Y0zut+rZP3mn94Ylp3+g/W/gFNuMQPokN/TAg7l6a66c9BgXwPORqxjyGQ3yXTGeijQf9zaxRRzjUTcBLoWvwbfJmD6Prn5MK4eFY/Zp8zOUXac0EeM6RZg0t34mfsz8A~1"""
-    cookies_string2="""emergency-mode=0; efm={"sd":"2025-10-09T12:36:29.877Z","ed":"2025-10-16T12:36:29.877Z"}; consentToUse={"status":"optedin","entity":"household","area":{"areaId":"130","jisx0402":"13113","postal":"1508001","pref":"13"}}; bff-rt-authz=cjAyOnJXR2x0S0lxZ0hHZHptZGxqTlNYVCtmQ2ZyZ2gzT0NpNEpUTlhFTDVZMEtNZU1mV2RnRzVZQUQ5R1pJcHdFRU1iZForS040OHcwV0NBT0U9OnZrbHRIOG1PNE1sa1pOM1Q=; exp_z_rt=1762605391; authz_type=r-alaz; area_permanent=130; nhkApVolume=0.7; z_at=eyJhbGciOiJFUzI1NiIsInR5cCI6ImF0K2p3dCIsImtpZCI6ImtpZC1hdXRoei1hYzEtcHJkLTAxIn0.eyJzdWIiOiJjOTcwOWZiMi0zYjE5LTQxYjItYjg2My03MzczY2QxYzEzYjUiLCJpc3MiOiJodHRwczovL3IuYXV0aHouYWMxLm5oayIsImFjdGl2YXRlZEJ5Ijoic2VsZi1hY3RpdmF0ZWQiLCJjbGllbnRfaWQiOiIxMzExNjg5NDQ0MCIsImxpY2Vuc2VUeXBlIjoiMiIsInByb2ZpbGVUeXBlIjoiYW5vbnltb3VzIiwiZ3JhbnRfdHlwZSI6ImF1dGhvcml6YXRpb25fY29kZSIsInByb2ZpbGVJZCI6ImM5NzA5ZmIyLTNiMTktNDFiMi1iODYzLTczNzNjZDFjMTNiNSIsInNjb3BlIjoiZ2V0Om5ld3MgZ2V0OnR2IiwiZXhwIjoxNzYwMzQ3MDg4LCJpYXQiOjE3NjAzMTgyODgsImVudGl0eSI6ImhvdXNlaG9sZCIsImp0aSI6ImZUay1oVTdfb3hKMUdxaFE4NnhvVW9TRDV1RUR2OHJpdmpuN0kyTXRmU2MifQ.Pe-4cyVO2HHCW6maXvXrzMn__sXlB9s5sYEa5yCt_xN45W4Zff4VPlyIOcP2BJD98pj2SH_ik8SD2C3NKBtLBQ; exp_z_at=1760347088; ak_bmsc=41917E8C9203D499BC80EB5C600EA9D3~000000000000000000000000000000~YAAQJn8mF5SVbaOZAQAAonMl2x3meFPAdBiehnIDp2Jcs1JWGJ03wE1oYKNhxHkQl60c+YWTs6TO9zvBVcwk0uvMlKHb6/h+I8jAVD42fRrNrZDetLKCJZ12EgpJQGh5HxXPcMRjUA+VK6P1LvpfbLGCGWkWvDrfaAHELXvPGAmzpkqma5FQl7rv03VsCqufbWKwK6UFfGBUUEz0JKGyG+358nu0TQzxZyQfxhAibtS1jNvDetFPfNmWnuPaLSDd4f6wtutzaM5/SN9folSL8l6qlXoByUuor9n7fYI0wpkyhFfJNYJj4Wc0YjA0o69AVojrZznvycE/SWWY1a7bfI0bz0R5CclzW+y5aiI03s2zB6SldI94f0PsWxr/P2rZEv7Md5OuXmbhywVy/BOXrNK13ePyTSLZrw==; bm_sv=3B12EC18A5E3E1128060AD9198E4FED6~YAAQI38mF83HBpuZAQAABOqL2x2B7xDqe756IlZlAXj6oKlwUMUy/gLL81+r031yIE7LGO53MXKUrbv4dya7G4NboLrWj/eOlYtZO+/sMgArl4I+cwXc7fhwhS/znvR942S3+9DrW8OaBt4KiIPSA1crRnNJqIip85z7ySXSbrnMGGvQxSi1QS4B1eQaNPL9d4G35axwg0ESAXCQteKRTECD2phqbBDLN+GLfvqT9PoSlM/4e/sLFT+zCnQ2sg==~1"""
+
     # 创建下载器
-    downloader = NHKHLSDownloader(m3u8_content2, cookies_string2)
+    downloader = NHKHLSDownloader(m3u8_content)
     
     # 开始下载
     output_file = "testaa.m4a"
